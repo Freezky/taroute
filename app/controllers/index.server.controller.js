@@ -9,6 +9,7 @@ exports.render = function(req, res) {
     req.session.lastVisit = new Date();
 
     res.render('index', {
-        title: 'Ta Route'
+        title: 'Ta Route',
+        userFullName: req.user ? req.user.fullName : ''
     })
 };
