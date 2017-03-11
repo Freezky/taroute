@@ -2,9 +2,98 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c0edf83-b4cc-4a0b-80cf-59a2ca409d75" name="Default" comment="Google OAuth supports v1">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/taroute/app/controllers/itineraries.server.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/taroute/app/utils.js" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/.idea/workspace.xml" afterPath="$USER_HOME$/WebstormProjects/taroute/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/app/routes/users.server.routes.js" afterPath="$USER_HOME$/WebstormProjects/taroute/app/routes/users.server.routes.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs" afterPath="$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/app/views/signup.ejs" afterPath="$USER_HOME$/WebstormProjects/taroute/app/views/signup.ejs" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/config/env/development.js" afterPath="$USER_HOME$/WebstormProjects/taroute/config/env/development.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/config/passport.js" afterPath="$USER_HOME$/WebstormProjects/taroute/config/passport.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/accepts/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/accepts/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/array-flatten/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/array-flatten/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/async/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/async/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/basic-auth/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/basic-auth/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/bluebird/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/bluebird/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/bson/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/bson/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/buffer-shims/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/buffer-shims/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/bytes/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/bytes/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/compressible/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/compressible/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/compression/node_modules/bytes/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/compression/node_modules/bytes/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/compression/node_modules/debug/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/compression/node_modules/debug/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/compression/node_modules/ms/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/compression/node_modules/ms/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/content-disposition/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/content-disposition/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/content-type/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/content-type/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/cookie-signature/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/cookie-signature/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/cookie/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/cookie/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/core-util-is/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/core-util-is/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/crc/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/crc/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/debug/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/debug/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/depd/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/depd/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/destroy/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/destroy/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/ee-first/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/ee-first/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/encodeurl/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/encodeurl/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/es6-promise/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/es6-promise/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/escape-html/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/escape-html/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/etag/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/etag/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/finalhandler/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/finalhandler/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/forwarded/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/forwarded/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/fresh/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/fresh/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/hooks-fixed/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/hooks-fixed/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/http-errors/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/http-errors/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/iconv-lite/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/iconv-lite/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/inherits/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/inherits/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/ipaddr.js/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/ipaddr.js/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/isarray/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/isarray/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/kareem/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/kareem/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/lodash/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/lodash/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/media-typer/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/media-typer/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/merge-descriptors/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/merge-descriptors/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/method-override/node_modules/debug/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/method-override/node_modules/debug/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/methods/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/methods/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/mime-db/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/mime-db/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/mime-types/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/mime-types/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/mime/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/mime/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/mongodb-core/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/mongodb-core/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/mongodb/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/mongodb/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/mpath/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/mpath/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/mpromise/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/mpromise/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/mquery/node_modules/debug/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/mquery/node_modules/debug/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/mquery/node_modules/ms/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/mquery/node_modules/ms/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/mquery/node_modules/sliced/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/mquery/node_modules/sliced/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/mquery/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/mquery/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/ms/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/ms/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/muri/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/muri/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/negotiator/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/negotiator/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/on-finished/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/on-finished/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/on-headers/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/on-headers/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/parseurl/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/parseurl/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/passport-strategy/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/passport-strategy/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/path-to-regexp/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/path-to-regexp/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/pause/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/pause/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/process-nextick-args/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/process-nextick-args/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/proxy-addr/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/proxy-addr/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/qs/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/qs/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/random-bytes/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/random-bytes/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/range-parser/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/range-parser/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/raw-body/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/raw-body/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/readable-stream/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/readable-stream/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/regexp-clone/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/regexp-clone/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/require_optional/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/require_optional/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/resolve-from/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/resolve-from/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/semver/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/semver/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/send/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/send/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/serve-static/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/serve-static/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/setprototypeof/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/setprototypeof/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/sliced/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/sliced/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/statuses/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/statuses/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/string_decoder/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/string_decoder/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/type-is/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/type-is/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/uid-safe/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/uid-safe/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/unpipe/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/unpipe/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/util-deprecate/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/util-deprecate/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/utils-merge/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/utils-merge/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/node_modules/vary/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/node_modules/vary/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/npm-shrinkwrap.json" afterPath="$USER_HOME$/WebstormProjects/taroute/npm-shrinkwrap.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/package.json" />
     </list>
     <ignored path="$USER_HOME$/WebstormProjects/HackQC/.tmp/" />
     <ignored path="$USER_HOME$/WebstormProjects/HackQC/temp/" />
@@ -25,8 +114,8 @@
       <file leaf-file-name="development.js" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/env/development.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+            <state relative-caret-position="210">
+              <caret line="16" column="65" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="65" />
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
               </folding>
@@ -34,14 +123,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="google.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="google.js" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/strategies/google.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+            <state relative-caret-position="146">
+              <caret line="18" column="51" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="express.js" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/express.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#52#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/WebstormProjects/taroute/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -73,56 +184,8 @@
       <file leaf-file-name="passport.js" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/passport.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="22" column="42" lean-forward="false" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#52#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users.server.controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/controllers/users.server.controller.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="100" column="2" lean-forward="false" selection-start-line="100" selection-start-column="2" selection-end-line="100" selection-end-column="2" />
-              <folding>
-                <element signature="e#0#52#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.server.controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/controllers/index.server.controller.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#52#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user.server.model.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/models/user.server.model.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#52#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.server.routes.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/routes/index.server.routes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            <state relative-caret-position="330">
+              <caret line="24" column="2" lean-forward="false" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
               </folding>
@@ -133,12 +196,31 @@
       <file leaf-file-name="users.server.routes.js" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/routes/users.server.routes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="64" lean-forward="false" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+            <state relative-caret-position="161">
+              <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
-                <marker date="1489234632000" expanded="true" signature="192:828" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signin.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="25" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signup.ejs" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/views/signup.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" column="31" lean-forward="false" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -176,19 +258,19 @@
         <option value="$USER_HOME$/WebstormProjects/taroute/server.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/config/strategies/local.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/app/models/user.server.model.js" />
-        <option value="$USER_HOME$/WebstormProjects/taroute/app/views/signup.ejs" />
         <option value="$USER_HOME$/WebstormProjects/taroute/config/express.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/app/controllers/index.server.controller.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/app/views/index.ejs" />
         <option value="$USER_HOME$/WebstormProjects/taroute/config/mongoose.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/app/controllers/users.server.controller.js" />
-        <option value="$USER_HOME$/WebstormProjects/taroute/config/passport.js" />
-        <option value="$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs" />
         <option value="$USER_HOME$/WebstormProjects/taroute/package.json" />
-        <option value="$USER_HOME$/WebstormProjects/taroute/app/routes/users.server.routes.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/config/strategies/facebook.js" />
-        <option value="$USER_HOME$/WebstormProjects/taroute/config/env/development.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/config/strategies/google.js" />
+        <option value="$USER_HOME$/WebstormProjects/taroute/config/env/development.js" />
+        <option value="$USER_HOME$/WebstormProjects/taroute/config/passport.js" />
+        <option value="$USER_HOME$/WebstormProjects/taroute/app/routes/users.server.routes.js" />
+        <option value="$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs" />
+        <option value="$USER_HOME$/WebstormProjects/taroute/app/views/signup.ejs" />
       </list>
     </option>
   </component>
@@ -448,7 +530,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489214030829</updated>
-      <workItem from="1489214032928" duration="16993000" />
+      <workItem from="1489214032928" duration="19195000" />
     </task>
     <task id="LOCAL-00001" summary="V1">
       <created>1489216150077</created>
@@ -489,7 +571,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16993000" />
+    <option name="totallyTimeSpent" value="19195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="4" width="1280" height="796" extended-state="0" />
@@ -567,24 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/views/signup.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="7" lean-forward="false" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/express.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#52#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -600,14 +664,6 @@
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -628,14 +684,6 @@
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -669,31 +717,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/routes/users.server.routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="64" lean-forward="false" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#52#0" expanded="false" />
-            <marker date="1489234632000" expanded="true" signature="192:828" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/controllers/users.server.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="100" column="2" lean-forward="false" selection-start-line="100" selection-start-column="2" selection-end-line="100" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#52#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/passport.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="42" lean-forward="false" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
@@ -720,23 +747,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/env/development.js">
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/express.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        <state relative-caret-position="206">
+          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/strategies/google.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        <state relative-caret-position="146">
+          <caret line="18" column="51" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/env/development.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="65" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#52#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/passport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="2" lean-forward="false" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#52#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/routes/users.server.routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#52#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="25" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/views/signup.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="31" lean-forward="false" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>

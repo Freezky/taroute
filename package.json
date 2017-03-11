@@ -1,19 +1,21 @@
 {
   "name": "taRoute",
   "version": "0.0.1",
-  "dependencies" : {
-    "express": "latest",
-    "morgan": "latest",
-    "compression": "latest",
+  "dependencies": {
     "body-parser": "latest",
-    "method-override": "latest",
-    "express-session": "latest",
-    "ejs": "latest",
+    "compression": "latest",
     "connect-flash": "~0.1.1",
+    "ejs": "latest",
+    "express": "latest",
+    "express-session": "latest",
+    "google-auth-library": "https://registry.npmjs.org/google-auth-library/-/google-auth-library-0.10.0.tgz",
+    "googleapis": "^18.0.0",
+    "method-override": "latest",
     "mongoose": "latest",
-    "passport": "~0.2.1",
-    "passport-local": "~1.0.0",
+    "morgan": "latest",
+    "passport": "^0.2.2",
     "passport-facebook": "~1.0.3",
-    "passport-google-oauth": "~0.1.5"
+    "passport-google-oauth": "~0.1.5",
+    "passport-local": "~1.0.0"
   }
 }
