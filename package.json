@@ -1,0 +1,15 @@
+{
+  "name": "taRoute",
+  "version": "0.0.1",
+  "dependencies" : {
+    "express": "latest",
+    "morgan": "latest",
+    "compression": "latest",
+    "body-parser": "latest",
+    "method-override": "latest",
+    "express-session": "latest",
+    "ejs": "latest",
+    "mongoose": "latest",
+    "passport": "latest"
+  }
+}
