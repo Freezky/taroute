@@ -1,6 +1,6 @@
 
-const WGS84_a = 6378137.0;  // Major semiaxis [m]
-const WGS84_b = 6356752.3; // Minor semiaxis [m]
+const NAD83_a = 6378137.0;  // Major semiaxis [m]
+const NAD83_b = 6356752.3141 // Minor semiaxis [m]
 
 function getBoundingBox(lat1, lng1, lat2, lng2){
 	var midPoint = computeMidPoint(lat1, lng1, lat2, lng2);
@@ -49,12 +49,12 @@ function computeMidPoint (lat1, lng1, lat2, lng2){
 
 function getEarthRadius(lat){
 	// Gives better earth radius (than the mean) for Quebec. 
-	// It's HackQC as in Quebec ! What else ?
+	// It's HackQC, we are in Quebec ! What else ?
 	// Semi-axes of WGS-84 geoidal reference
-	var An = WGS84_a*WGS84_a * Math.cos(lat)
-    var Bn = WGS84_b*WGS84_b * Math.sin(lat)
-    var Ad = WGS84_a * Math.cos(lat)
-    var Bd = WGS84_b * Math.sin(lat)
+	var An = NAD83_a*NAD83_a * Math.cos(lat)
+    var Bn = NAD83_b*NAD83_b * Math.sin(lat)
+    var Ad = NAD83_a * Math.cos(lat)
+    var Bd = NAD83_b * Math.sin(lat)
     return Math.sqrt((An*An + Bn*Bn)/(Ad*Ad + Bd*Bd) )
 }
 
