@@ -1,5 +1,6 @@
 var request = require('superagent');
 var geoutils = require('../utils.js');
+var Accident = require('mongoose').model('Accident');
 
 APP_ID = 'JU13C2QwBtMUR7NVqlOi';
 APP_CODE = 'FHfevJrLfCmT5nMD2Vchfw';
@@ -8,41 +9,51 @@ BASE_URL = 'https://route.cit.api.here.com/routing/7.2/calculateroute.json';
 exports.getItineraries = function(req, res, next){
 	this.isDone = true;
 	var payload = req.body;
-	payload.options.bike;
+	//ayload.options.bike;
 	this.getSafeDirections = getSafeDirections.bind(this);
-	this.getSafeDirections();
-	while (!this.isDone){}
-	res.setHeader('Content-Type', 'application/json');
-	res.send(JSON.stringify({routes: this.routes, message: this.error || ''}));
+	this.getSafeDirections(payload, res);
+
 };
 
-function getSafeDirections(payload){
+function getSafeDirections(payload, resp){
 	// var unSafeAreas = getfromdb;
 	var unsafeAreas = [{latMax: 45.511376, lngMin: -73.562815, latMin: 45.510955, lngMax: -73.562638}];
+	var boundingBox = geoutils.getBoundingBox(payload.lat1, payload.lng1, payload.lat2, payload.lng2);
 
-	var _self = this;
-	request
-		.get(BASE_URL)
-		.query({app_id: APP_ID, app_code: APP_CODE, 
-				waypoint0: 'geo!'+payload.lat1+','+payload.lng1, 
-				waypoint1: 'geo!'+payload.lat2+','+payload.lng2, 
-				mode: 'fastest;bicycle',
-				departure: 'now',
-				avoidAreas: boxArrayToString(unsafeAreas),
-				combineChange: 'true',
-				representation: 'display',
-				routeAttributes: 'waypoints,summary,shape'
-		})
-		.end(function(err, res){
-			if (!res.body || !res.body.Response){ 
-				_self.routes = []; _self.error = 'Notre service a rencontré une erreur.';
-				console.log(res.body, err);
-				return
-			}	
-			console.log(res.body.response.route[0], res.body.response.route[0].shape); 
-			_self.routes = res.body.response.route;
-			_self.isDone = true;
-		});
+	Accident.find({
+		'point.lng': {$gt: boundingBox.lngMin, $lt: boundingBox.lngMax},
+		'point.lat': {$gt: boundingBox.latMin, $lt: boundingBox.latMax}
+	}).limit(7).exec(function (err, acc) {
+		var box = geoutils.actualBox(acc.point.lat, acc.point.lng, 100);
+		unsafeAreas.push(box);
+		if (unsafeAreas.length == 7){
+            request
+                .get(BASE_URL)
+                .query({app_id: APP_ID, app_code: APP_CODE,
+                    waypoint0: 'geo!'+payload.lat1+','+payload.lng1,
+                    waypoint1: 'geo!'+payload.lat2+','+payload.lng2,
+                    mode: 'fastest;publicTransport',
+                    departure: 'now',
+                    avoidAreas: boxArrayToString(unsafeAreas),
+                    combineChange: 'true',
+                    representation: 'display',
+                    routeAttributes: 'waypoints,summary,shape'
+                })
+                .end(function(err, res){
+                    if (!res.body || !res.body.Response){
+                        var message = 'Notre service a rencontré une erreur.';
+                        console.log(res.body, err);
+                        return
+                    }
+                    console.log(res.body.response.route[0], res.body.response.route[0].shape);
+                    var routes = res.body.response.route;
+
+                    resp.setHeader('Content-Type', 'application/json');
+                    resp.send(JSON.stringify({routes: routes, message: message || ''}));
+
+                });
+		}
+    });
 }
 
 function boxArrayToString(boundingBoxes){

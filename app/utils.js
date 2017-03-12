@@ -48,6 +48,18 @@ function getBoundingBox(lat1, lng1, lat2, lng2){
 	}
 }
 
+exports.actualBox = function(lat, lng, dist) {
+    var R = getEarthRadius(lat);
+    var pR = R * math.cos(lat); // radius of parallel at this latitude
+	var halfSide = dist;
+    return {
+        latMin: (lat - halfSide/R).toDegrees(),
+        latMax: (lat + halfSide/R).toDegrees(),
+        lngMin: (lng - halfSide/pR).toDegrees(),
+        lngMax: (lng + halfSide/pR).toDegrees()
+    }
+}
+
 function computeDistance (lat1, lng1, lat2, lng2){
 	var lat1 = lat1.toRadians();
 	var lat2 = lat2.toRadians();
