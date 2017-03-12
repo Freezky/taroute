@@ -27,7 +27,7 @@ var origin_place_id = null;
   var travel_mode = google.maps.TravelMode.WALKING;
   var map = new google.maps.Map(document.getElementById('map'), {
     mapTypeControl: false,
-    center: {lat: -33.8688, lng: 151.2195},
+    center: {lat: 45.499603, lng: -73.582720},
     zoom: 13
   });
 

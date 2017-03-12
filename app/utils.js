@@ -58,7 +58,7 @@ exports.actualBox = function(lat, lng, dist) {
         lngMin: (lng - halfSide/pR).toDegrees(),
         lngMax: (lng + halfSide/pR).toDegrees()
     }
-}
+};
 
 function computeDistance (lat1, lng1, lat2, lng2){
 	var lat1 = lat1.toRadians();
@@ -88,7 +88,7 @@ function computeMidPoint (lat1, lng1, lat2, lng2){
 	var lat3 = Math.atan2(Math.sin(lat1) + Math.sin(lat2), 
 					Math.sqrt((Math.cos(lat1) + bx) * 
 						(Math.cos(lat1) + bx) + by * by));
-    var lng3 = lng1 + Math.atan2(By, Math.cos(lat1) + bx);
+    var lng3 = lng1 + Math.atan2(by, Math.cos(lat1) + bx);
     return {lat: lat3, lng: lng3};
 }
 

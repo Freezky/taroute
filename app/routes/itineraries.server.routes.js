@@ -1,4 +1,4 @@
-var itineraries = require('../controllers/itineraries¸.server.controller');
+var itineraries = require('../controllers/itineraries.server.controller');
 var index = require('../controllers/index.server.controller');
 module.exports = function (app) {
 	app.route('/directions')
