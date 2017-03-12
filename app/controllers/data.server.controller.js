@@ -3,7 +3,8 @@
  */
 
 var currentWeather; //TODO get request to weather API
-var accidentReport; //TODO: Pass JSON from Dennis' API
+var accidentReport = require('../../AccidentReports.json');
+var Accident = require('mongoose').model('Accident');
 
 exports.removeHyphenDate = function(strDate){
     var newStr;
