@@ -1,6 +1,26 @@
+var request = require('superagent');
+
+const APP_ID = 'JU13C2QwBtMUR7NVqlOi';
+const APP_CODE = 'FHfevJrLfCmT5nMD2Vchfw';
+const BASE_URL = 'https://geocoder.cit.api.here.com/6.2/geocode.json';
+const map_url = 'http://www.mapquestapi.com/geocoding/v1/address';
 
 const NAD83_a = 6378137.0;  // Major semiaxis [m]
 const NAD83_b = 6356752.3141 // Minor semiaxis [m]
+
+/**
+* filter AccidentReports.json to group accidents per location
+*/
+exports.getDistinctLocations = function(){
+	var AccidentReports = require('../AccidentReports.json');
+	var distinctLocations = {};
+	AccidentReports.value.map(function(report){
+		var key = report["NO_CIVIQ_ACCDN"] + ' ' + report["RUE_ACCDN"];
+		distinctLocations[key] = (distinctLocations[key] && distinctLocations[key] + 1) || 1;
+	});
+	console.log('distinctLocations', Object.keys(distinctLocations).length);
+	return distinctLocations;
+};
 
 function getBoundingBox(lat1, lng1, lat2, lng2){
 	var midPoint = computeMidPoint(lat1, lng1, lat2, lng2);

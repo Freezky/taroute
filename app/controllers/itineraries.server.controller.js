@@ -34,7 +34,7 @@ function getSafeDirections(payload){
 				routeAttributes: 'waypoints,summary,shape'
 		})
 		.end(function(err, res){
-			if (!res.body || !res.body.response){ 
+			if (!res.body || !res.body.Response){ 
 				_self.routes = []; _self.error = 'Notre service a rencontré une erreur.';
 				console.log(res.body, err);
 				return
