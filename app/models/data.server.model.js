@@ -29,7 +29,7 @@ DataSchema.set('toJSON', {
 mongoose.model('Accident', DataSchema);
 
 var Accident = mongoose.model('Accident');
-var db = mongoose.connect('mongodb://localhost/taRouteDev');
+//var db = mongoose.connect('mongodb://localhost/taRouteDev');
 
 accidentReport.value.map(function(o, i){
     Accident.create({
@@ -53,10 +53,19 @@ function avgVictim() {
     console.log(sum/count);
 }
 avgVictim();
+var distinctkeys = countLocationsWithSeveralAccidents();
+var keysOver2 = Object.keys(distinctkeys).filter(function (e) {
+    return distinctkeys[e] > 2;
+});
+console.log(keysOver2, keysOver2.length);
 
 function countLocationsWithSeveralAccidents(){
-
+    var distinctKeys = {};
     accidentReport.value.map(function (o, i) {
-
-    })
+        distinctKeys[o.NO_CIVIQ_ACCDN + ' ' + o.RUE_ACCDN] = (
+            distinctKeys[o.NO_CIVIQ_ACCDN + ' ' + o.RUE_ACCDN]  &&
+            distinctKeys[o.NO_CIVIQ_ACCDN + ' ' + o.RUE_ACCDN] + 1 || 1);
+    });
+    console.log(distinctKeys, accidentReport.value.length);
+    return distinctKeys;
 }
