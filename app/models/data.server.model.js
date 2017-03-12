@@ -32,15 +32,15 @@ var Accident = mongoose.model('Accident');
 var db = mongoose.connect('mongodb://localhost/taRouteDev');
 
 accidentReport.value.map(function(o, i){
-        Accident.create({
-            date: o.DT_ACCDN,
-            gravity: o.gravite,
-            totalNumberOfVictims: o.NB_VICTIMES_TOTAL,
-            numberOfPedestrian: o.NB_VICTIMES_PIETON,
-            numberOfCyclist: o.NB_VICTIMES_VELO,
-            civicNumber: o.NO_CIVIQ_ACCDN,
-            road: o.RUE_ACCDN
-        });
+    Accident.create({
+        date: o.DT_ACCDN,
+        gravity: o.gravite,
+        totalNumberOfVictims: o.NB_VICTIMES_TOTAL,
+        numberOfPedestrian: o.NB_VICTIMES_PIETON,
+        numberOfCyclist: o.NB_VICTIMES_VELO,
+        civicNumber: o.NO_CIVIQ_ACCDN,
+        road: o.RUE_ACCDN
+    });
 });
 
 function avgVictim() {
@@ -51,13 +51,12 @@ function avgVictim() {
         count++;
     });
     console.log(sum/count);
-    }
+}
 avgVictim();
 
-function countlocationWithSeveralAccidents(){
-    var count = 0;
+function countLocationsWithSeveralAccidents(){
 
     accidentReport.value.map(function (o, i) {
-        if()
+
     })
 }
