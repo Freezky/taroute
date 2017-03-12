@@ -65,3 +65,6 @@ function degToRad(deg){
 function radToDeg(rad){
 	return rad/Math.PI * 180;
 }
+
+exports.getBoundingBox = getBoundingBox;
+exports.computeDistance = computeDistance;
