@@ -37,8 +37,17 @@
 					<img src="media/logo.svg"/>
 				</a>
 				<div class="pull-right">
-					<button class="navbar-btn btn btn-info"><span class="glyphicon glyphicon-log-in"></span><span class="removeText"> Inscription</span></button>
-					<button class="navbar-btn btn btn-primary"><span class="glyphicon glyphicon-save"></span><span class="removeText"> Connexion</span></button>
+					<% if ( userFullName ) { %>
+						<span class="navbar-text"><% userFullName %></span>
+					<% } else { %>
+					<a class="navbar-btn btn btn-info" href="/signup">
+						<span class="glyphicon glyphicon-log-in"></span>
+						<span class="removeText"> Inscription</span>
+					</a>
+					<a href="/signin" class="navbar-btn btn btn-primary">
+						<span class="glyphicon glyphicon-save"></span><span class="removeText"> Connexion</span>
+					</a>
+					<% } %>
 				</div>
 			</div>
   		</div>
