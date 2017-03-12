@@ -40,5 +40,5 @@ module.exports = function(app) {
         failureRedirect: '/signin',
         successRedirect: '/'
     }));
-    app.get('/oauth/google/calendar', calendar());
+    // app.get('/oauth/google/calendar', calendar());
 };
