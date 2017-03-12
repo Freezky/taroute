@@ -1,0 +1,164 @@
+
+
+input[type=range]
+{
+    margin-bottom: 15px;
+    width: 80%;
+    margin-left: 10%;
+}
+
+label
+{
+    margin-left: 10%;
+}
+
+.navbar
+{
+    margin-bottom: 0;
+}
+
+ .navbar-brand img
+{
+    margin-top: -7px;
+    height: 30px;
+    float: right;
+}
+
+.navbar-brand
+{
+    width: 160px;
+}
+btn-primary
+{
+    background-color: #354799 !important;
+}
+
+btn-info
+{
+    background-color: #b2d5d1 !important;
+}
+.navbar-default .navbar-brand 
+{
+    font-weight: bold;
+}
+
+.navbar-default
+{
+    background-image: none !important;
+    background-color: #d2e08b !important;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+#mapItem
+{
+    position: relative;
+    top: 10px;
+}
+
+.controls {
+    border: 1px solid transparent;
+    border-radius: 2px 0 0 2px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    height: 32px;
+    outline: none;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+#origin-input,
+#destination-input {
+  background-color: #fff;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 300;
+  margin-left: 12px;
+  padding: 0 11px 0 13px;
+  text-overflow: ellipsis;
+  width: 200px;
+}
+
+#origin-input:focus,
+#destination-input:focus {
+  border-color: #4d90fe;
+}
+
+#mode{
+  background-color: transparent;
+  padding-left: 15%;
+}
+
+/*#mode-selector label {
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 300;
+}*/
+
+/* The side navigation menu */
+.sidenav {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 53px;
+    left: 0;
+    background-color: #e4e5e7; /* Black*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+/* The navigation menu links */
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover, .offcanvas a:focus{
+    color: #f1f1f1;
+}
+
+/* Position and style the close button (top right corner) */
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 15px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#main {
+    transition: margin-left .5s;
+    padding: 20px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+@media screen and (max-width: 475px)
+{
+    .removeText
+    {
+       font-size: 0;    
+    }
+}
+
+

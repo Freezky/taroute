@@ -11,12 +11,9 @@ exports.getItineraries = function(req, res, next){
 	payload.options.bike;
 	this.getSafeDirections = getSafeDirections.bind(this);
 	this.getSafeDirections();
-	request
-		.get('')
-		.query({})
-		.end(function(err, res){
-
-		})
+	while (!this.isDone){}
+	res.setHeader('Content-Type', 'application/json');
+	res.send(JSON.stringify({routes: this.routes, message: this.error || ''}));
 };
 
 function getSafeDirections(payload){
@@ -29,15 +26,22 @@ function getSafeDirections(payload){
 		.query({app_id: APP_ID, app_code: APP_CODE, 
 				waypoint0: 'geo!'+payload.lat1+','+payload.lng1, 
 				waypoint1: 'geo!'+payload.lat2+','+payload.lng2, 
-				mode: 'fastest;car',
+				mode: 'fastest;bicycle',
 				departure: 'now',
 				avoidAreas: boxArrayToString(unsafeAreas),
 				combineChange: 'true',
 				representation: 'display',
+				routeAttributes: 'waypoints,summary,shape'
 		})
 		.end(function(err, res){
+			if (!res.body || !res.body.response){ 
+				_self.routes = []; _self.error = 'Notre service a rencontré une erreur.';
+				console.log(res.body, err);
+				return
+			}	
+			console.log(res.body.response.route[0], res.body.response.route[0].shape); 
 			_self.routes = res.body.response.route;
-			console.log(res.body, res.body.response.route[0], res.body.response.route[0].shape); 
+			_self.isDone = true;
 		});
 }
 
@@ -51,7 +55,7 @@ function boxArrayToString(boundingBoxes){
 			}
 		}
 	});
-	console.log('avoidAreas -> '+boxesString,);
+	console.log('avoidAreas -> ' + boxesString);
 	return boxesString;
 }
 
