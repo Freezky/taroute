@@ -4,9 +4,7 @@
     <list default="true" id="8c0edf83-b4cc-4a0b-80cf-59a2ca409d75" name="Default" comment="">
       <change type="DELETED" beforePath="$USER_HOME$/WebstormProjects/taroute/app/routes/data.server.routes.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/.idea/workspace.xml" afterPath="$USER_HOME$/WebstormProjects/taroute/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/app/models/data.server.model.js" afterPath="$USER_HOME$/WebstormProjects/taroute/app/models/data.server.model.js" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/app/routes/users.server.routes.js" afterPath="$USER_HOME$/WebstormProjects/taroute/app/routes/users.server.routes.js" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/package.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs" afterPath="$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs" />
     </list>
     <ignored path="$USER_HOME$/WebstormProjects/HackQC/.tmp/" />
     <ignored path="$USER_HOME$/WebstormProjects/HackQC/temp/" />
@@ -24,7 +22,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="data.server.model.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="data.server.model.js" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/models/data.server.model.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="183">
@@ -32,6 +30,16 @@
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signin.ejs" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="57" column="26" lean-forward="false" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -112,18 +120,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="development.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/env/development.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#52#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="express.js" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/express.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -177,7 +173,6 @@
         <option value="$USER_HOME$/WebstormProjects/taroute/config/strategies/facebook.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/config/strategies/google.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/config/passport.js" />
-        <option value="$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs" />
         <option value="$USER_HOME$/WebstormProjects/taroute/app/views/signup.ejs" />
         <option value="$USER_HOME$/WebstormProjects/taroute/config/env/development.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/config/strategies/calendar.js" />
@@ -189,6 +184,7 @@
         <option value="$USER_HOME$/WebstormProjects/taroute/app/routes/users.server.routes.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/package.json" />
         <option value="$USER_HOME$/WebstormProjects/taroute/app/models/data.server.model.js" />
+        <option value="$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs" />
       </list>
     </option>
   </component>
@@ -471,7 +467,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489214030829</updated>
-      <workItem from="1489214032928" duration="40468000" />
+      <workItem from="1489214032928" duration="41490000" />
     </task>
     <task id="LOCAL-00001" summary="V1">
       <created>1489216150077</created>
@@ -533,19 +529,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40468000" />
+    <option name="totallyTimeSpent" value="41490000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1898332" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18903892" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32954547" sideWeight="0.50277996" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3396779" sideWeight="0.49722" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3396779" sideWeight="0.49722" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -610,14 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="25" selection-end-column="47" />
           <folding />
         </state>
       </provider>
@@ -845,6 +833,14 @@
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="57" column="26" lean-forward="false" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
