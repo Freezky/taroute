@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c0edf83-b4cc-4a0b-80cf-59a2ca409d75" name="Default" comment="npm shrinkwrap">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/taroute/app/views/signup.ejs" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/taroute/config/passport.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/taroute/config/strategies/facebook.js" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/taroute/config/strategies/local.js" />
+    <list default="true" id="8c0edf83-b4cc-4a0b-80cf-59a2ca409d75" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/taroute/app/controllers/data.server.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/taroute/app/models/data.server.model.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/taroute/app/routes/data.server.routes.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/taroute/config/strategies/calendar.js" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/.idea/workspace.xml" afterPath="$USER_HOME$/WebstormProjects/taroute/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/app/controllers/index.server.controller.js" afterPath="$USER_HOME$/WebstormProjects/taroute/app/controllers/index.server.controller.js" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/app/controllers/users.server.controller.js" afterPath="$USER_HOME$/WebstormProjects/taroute/app/controllers/users.server.controller.js" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/app/models/user.server.model.js" afterPath="$USER_HOME$/WebstormProjects/taroute/app/models/user.server.model.js" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/app/routes/users.server.routes.js" afterPath="$USER_HOME$/WebstormProjects/taroute/app/routes/users.server.routes.js" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/app/views/index.ejs" afterPath="$USER_HOME$/WebstormProjects/taroute/app/views/index.ejs" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/config/env/development.js" afterPath="$USER_HOME$/WebstormProjects/taroute/config/env/development.js" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/config/express.js" afterPath="$USER_HOME$/WebstormProjects/taroute/config/express.js" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/config/mongoose.js" afterPath="$USER_HOME$/WebstormProjects/taroute/config/mongoose.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/npm-shrinkwrap.json" afterPath="$USER_HOME$/WebstormProjects/taroute/npm-shrinkwrap.json" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/package.json" afterPath="$USER_HOME$/WebstormProjects/taroute/package.json" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/taroute/server.js" afterPath="$USER_HOME$/WebstormProjects/taroute/server.js" />
     </list>
     <ignored path="$USER_HOME$/WebstormProjects/HackQC/.tmp/" />
     <ignored path="$USER_HOME$/WebstormProjects/HackQC/temp/" />
@@ -35,11 +28,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="development.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/env/development.js">
+      <file leaf-file-name="data.server.controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/controllers/data.server.controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="28" />
+            <state relative-caret-position="225">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
               </folding>
@@ -47,47 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="local.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/strategies/local.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-              <folding>
-                <element signature="e#0#52#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="facebook.js" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/strategies/facebook.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#52#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="passport.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/passport.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="22" column="42" lean-forward="false" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#52#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users.server.controller.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="users.server.controller.js" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/controllers/users.server.controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="100" column="2" lean-forward="false" selection-start-line="100" selection-start-column="2" selection-end-line="100" selection-end-column="2" />
+            <state relative-caret-position="990">
+              <caret line="68" column="22" lean-forward="true" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
               </folding>
@@ -95,11 +52,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.server.controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/controllers/index.server.controller.js">
+      <file leaf-file-name="data.server.routes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/routes/data.server.routes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="75">
+              <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#52#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.server.model.js" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/models/data.server.model.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
               </folding>
@@ -110,45 +79,11 @@
       <file leaf-file-name="user.server.model.js" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/models/user.server.model.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="88" column="35" lean-forward="false" selection-start-line="88" selection-start-column="35" selection-end-line="88" selection-end-column="35" />
+            <state relative-caret-position="303">
+              <caret line="87" column="3" lean-forward="true" selection-start-line="87" selection-start-column="3" selection-end-line="87" selection-end-column="3" />
               <folding>
                 <element signature="e#0#52#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.server.routes.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/routes/index.server.routes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-              <folding>
-                <element signature="e#0#52#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users.server.routes.js" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/routes/users.server.routes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="64" lean-forward="false" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
-              <folding>
-                <element signature="e#0#52#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/WebstormProjects/taroute/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="32" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -186,18 +121,25 @@
         <option value="$USER_HOME$/WebstormProjects/taroute/server.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/config/strategies/local.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/app/models/user.server.model.js" />
-        <option value="$USER_HOME$/WebstormProjects/taroute/app/views/signup.ejs" />
         <option value="$USER_HOME$/WebstormProjects/taroute/config/express.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/app/controllers/index.server.controller.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/app/views/index.ejs" />
         <option value="$USER_HOME$/WebstormProjects/taroute/config/mongoose.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/app/controllers/users.server.controller.js" />
+        <option value="$USER_HOME$/WebstormProjects/taroute/package.json" />
+        <option value="$USER_HOME$/WebstormProjects/taroute/config/strategies/facebook.js" />
+        <option value="$USER_HOME$/WebstormProjects/taroute/config/strategies/google.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/config/passport.js" />
         <option value="$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs" />
-        <option value="$USER_HOME$/WebstormProjects/taroute/package.json" />
-        <option value="$USER_HOME$/WebstormProjects/taroute/app/routes/users.server.routes.js" />
+        <option value="$USER_HOME$/WebstormProjects/taroute/app/views/signup.ejs" />
         <option value="$USER_HOME$/WebstormProjects/taroute/config/env/development.js" />
-        <option value="$USER_HOME$/WebstormProjects/taroute/config/strategies/facebook.js" />
+        <option value="$USER_HOME$/WebstormProjects/taroute/app/routes/users.server.routes.js" />
+        <option value="$USER_HOME$/WebstormProjects/taroute/config/strategies/calendar.js" />
+        <option value="$USER_HOME$/WebstormProjects/taroute/app/controllers/data.server.controllers.js" />
+        <option value="$USER_HOME$/WebstormProjects/taroute/app/routes/data.server.route.js" />
+        <option value="$USER_HOME$/WebstormProjects/taroute/app/routes/data.server.routes.js" />
+        <option value="$USER_HOME$/WebstormProjects/taroute/app/models/data.server.model.js" />
+        <option value="$USER_HOME$/WebstormProjects/taroute/app/controllers/data.server.controller.js" />
       </list>
     </option>
   </component>
@@ -211,9 +153,9 @@
     <handled-path value="$USER_HOME$/WebstormProjects/taroute/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="4" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="796" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -307,6 +249,20 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackQC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taroute" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -377,6 +333,7 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -443,7 +400,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489214030829</updated>
-      <workItem from="1489214032928" duration="13789000" />
+      <workItem from="1489214032928" duration="29875000" />
     </task>
     <task id="LOCAL-00001" summary="V1">
       <created>1489216150077</created>
@@ -466,23 +423,44 @@
       <option name="project" value="LOCAL" />
       <updated>1489216905502</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Passport authentication support (local + FB OAuth)">
+      <created>1489235197103</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1489235197104</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Google OAuth supports v1">
+      <created>1489236911429</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1489236911429</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Google OAuth supports (Final Version)">
+      <created>1489258927392</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1489258927392</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13789000" />
+    <option name="totallyTimeSpent" value="29875000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="4" width="1280" height="796" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12152502" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1898332" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32954547" sideWeight="0.50277996" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.49722" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3396779" sideWeight="0.49722" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -521,7 +499,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="V1" />
     <MESSAGE value="npm shrinkwrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="npm shrinkwrap" />
+    <MESSAGE value="Passport authentication support (local + FB OAuth)" />
+    <MESSAGE value="Google OAuth supports v1" />
+    <MESSAGE value="Google OAuth supports (Final Version)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Google OAuth supports (Final Version)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -546,18 +527,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/views/signup.ejs">
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="7" lean-forward="false" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+        <state relative-caret-position="240">
+          <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/express.js">
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="25" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/views/signup.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="36" column="31" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/strategies/calendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="15" column="45" lean-forward="false" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#52#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/controllers/itineraries.server.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/controllers/index.server.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
@@ -572,28 +587,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/server.js">
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/env/development.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="270">
+          <caret line="20" column="48" lean-forward="false" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/views/signin.ejs">
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/strategies/facebook.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="240">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#52#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/config.js">
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/strategies/google.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="66" lean-forward="false" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+        <state relative-caret-position="281">
+          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#52#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/strategies/local.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#52#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
@@ -610,18 +647,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/package.json">
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/controllers/index.server.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="30">
+          <caret line="4" column="66" lean-forward="false" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
@@ -638,30 +667,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/models/user.server.model.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="88" column="35" lean-forward="false" selection-start-line="88" selection-start-column="35" selection-end-line="88" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#52#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/routes/users.server.routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="64" lean-forward="false" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#52#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/controllers/users.server.controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="100" column="2" lean-forward="false" selection-start-line="100" selection-start-column="2" selection-end-line="100" selection-end-column="2" />
+        <state relative-caret-position="600">
+          <caret line="42" column="46" lean-forward="false" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
@@ -670,38 +679,68 @@
     </entry>
     <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/passport.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="42" lean-forward="false" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        <state relative-caret-position="330">
+          <caret line="24" column="2" lean-forward="false" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/strategies/local.js">
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/express.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        <state relative-caret-position="206">
+          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/env/development.js">
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/controllers/data.server.controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="225">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/WebstormProjects/taroute/config/strategies/facebook.js">
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/models/user.server.model.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        <state relative-caret-position="303">
+          <caret line="87" column="3" lean-forward="true" selection-start-line="87" selection-start-column="3" selection-end-line="87" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#52#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/models/data.server.model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#52#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/routes/data.server.routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#52#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/WebstormProjects/taroute/app/controllers/users.server.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="68" column="22" lean-forward="true" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
           <folding>
             <element signature="e#0#52#0" expanded="false" />
           </folding>

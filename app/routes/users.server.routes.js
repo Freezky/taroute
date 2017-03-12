@@ -3,7 +3,8 @@
  */
 
 var users = require('../../app/controllers/users.server.controller'),
-    passport = require('passport');
+    passport = require('passport'),
+    calendar = require('../../config/strategies/calendar');
 
 module.exports = function(app) {
     app.route('/signup')
@@ -27,4 +28,17 @@ module.exports = function(app) {
             failureRedirect: '/signin',
             successRedirect: '/'
         }));
+
+    app.get('/oauth/google', passport.authenticate('google', {
+        failureRedirect: '/signin',
+        scope: [
+            'https://www.googleapis.com/auth/userinfo.profile',
+            'https://www.googleapis.com/auth/userinfo.email'
+        ],
+    }));
+    app.get('/oauth/google/callback', passport.authenticate('google', {
+        failureRedirect: '/signin',
+        successRedirect: '/'
+    }));
+    app.get('/oauth/google/calendar', calendar());
 };
