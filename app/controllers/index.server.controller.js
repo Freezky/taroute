@@ -8,7 +8,7 @@ exports.render = function(req, res) {
     }
     req.session.lastVisit = new Date();
 
-    res.render('index', {
+    res.render('home', {
         title: 'Ta Route',
         userFullName: req.user ? req.user.fullName : ''
     })

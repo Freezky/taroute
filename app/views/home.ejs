@@ -39,6 +39,10 @@
 				<div class="pull-right">
 					<% if ( userFullName ) { %>
 						<span class="navbar-text"><% userFullName %></span>
+						<a class="navbar-btn btn btn-warning" href="/signout" style="color:white;">
+							<span class="glyphicon glyphicon-log-out"></span>
+							Déconnexion
+						</a>
 					<% } else { %>
 					<a class="navbar-btn btn btn-info" href="/signup">
 						<span class="glyphicon glyphicon-log-in"></span>
