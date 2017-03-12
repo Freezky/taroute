@@ -32,6 +32,8 @@ DataSchema.set('toJSON', {
 });
 
 mongoose.model('Accident', DataSchema);
+
+exports.DataSchema = DataSchema;
 //
 // var Accident = mongoose.model('Accident');
 //

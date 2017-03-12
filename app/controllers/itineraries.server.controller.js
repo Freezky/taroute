@@ -1,6 +1,7 @@
 var request = require('superagent');
 var geoutils = require('../utils.js');
-var Accident = require('mongoose').model('Accident');
+var DataSchema = require('../models/itineraries.server.model.js').DataSchema;
+var Accident = require('mongoose').model('Accident', DataSchema);
 
 APP_ID = 'JU13C2QwBtMUR7NVqlOi';
 APP_CODE = 'FHfevJrLfCmT5nMD2Vchfw';

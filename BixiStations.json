@@ -1,0 +1,1075 @@
+{
+  "@odata.context":"http://tarouteapi.azurewebsites.net/odata/$metadata#BixiStations","value":[
+    {
+      "id":1,"s":"Gosford / St-Antoine","n":"6001","st":2,"b":false,"su":true,"m":false,"lu":1480007079058,"lc":1487949651450,"bk":false,"bl":false,"la":45.50981958364862,"lo":-73.55496143951314,"da":2,"dx":17,"ba":0,"bx":0
+    },{
+      "id":2,"s":"Ste-Catherine / D\u00c3\u00a9z\u00c3\u00a9ry","n":"6002","st":2,"b":false,"su":true,"m":false,"lu":1479895406993,"lc":1487942202395,"bk":false,"bl":false,"la":45.53923029698213,"lo":-73.54108236730099,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":3,"s":"Evans / Clark","n":"6003","st":2,"b":false,"su":true,"m":false,"lu":1488288570672,"lc":1488290583745,"bk":false,"bl":false,"la":45.511119,"lo":-73.567974,"da":1,"dx":0,"ba":0,"bx":0
+    },{
+      "id":4,"s":"H\u00c3\u00b4tel de ville de Montr\u00c3\u00a9al (du Champs-de-Mars / Gosford)","n":"6004","st":2,"b":false,"su":true,"m":false,"lu":1479570404413,"lc":1488219103348,"bk":false,"bl":false,"la":45.509292692972735,"lo":-73.55441965162754,"da":3,"dx":24,"ba":0,"bx":0
+    },{
+      "id":5,"s":"Metcalfe / Square Dorchester","n":"6005","st":2,"b":false,"su":false,"m":false,"lu":1476904724539,"lc":1488208066272,"bk":false,"bl":false,"la":45.50023354666628,"lo":-73.57112646102905,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":6,"s":"18e avenue / Rosemont","n":"6006","st":2,"b":false,"su":true,"m":false,"lu":1487960598892,"lc":1487960598905,"bk":false,"bl":false,"la":45.557896734017284,"lo":-73.57673764228821,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":7,"s":"de l'H\u00c3\u00b4tel-de-Ville / Ste-Catherine","n":"6007","st":2,"b":false,"su":true,"m":false,"lu":1479560393302,"lc":1488285339267,"bk":false,"bl":false,"la":45.51164009357107,"lo":-73.5621839761734,"da":3,"dx":24,"ba":0,"bx":0
+    },{
+      "id":8,"s":"Sanguinet / Ste-Catherine","n":"6008","st":2,"b":false,"su":true,"m":false,"lu":1488287256741,"lc":1488287781774,"bk":false,"bl":false,"la":45.512734,"lo":-73.5611406,"da":2,"dx":0,"ba":0,"bx":0
+    },{
+      "id":9,"s":"Ste-Catherine / St-Hubert","n":"6009","st":2,"b":false,"su":true,"m":false,"lu":1488205704599,"lc":1488205416703,"bk":false,"bl":false,"la":45.51533014906273,"lo":-73.55914771556854,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":10,"s":"Ste-Catherine / St-Denis","n":"6901","st":2,"b":false,"su":true,"m":false,"lu":1479657291205,"lc":1487868264801,"bk":false,"bl":false,"la":45.513830045145404,"lo":-73.56043249368668,"da":1,"dx":30,"ba":0,"bx":0
+    },{
+      "id":11,"s":"St-Andr\u00c3\u00a9 / St-Antoine","n":"6011","st":2,"b":false,"su":true,"m":false,"lu":1487949590053,"lc":1487949593690,"bk":false,"bl":false,"la":45.5140873,"lo":-73.55230004,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":12,"s":"M\u00c3\u00a9tro St-Laurent (de Maisonneuve / St-Laurent)","n":"6012","st":2,"b":false,"su":true,"m":false,"lu":1488199229679,"lc":1488201891121,"bk":false,"bl":false,"la":45.51066,"lo":-73.56497,"da":2,"dx":0,"ba":0,"bx":0
+    },{
+      "id":13,"s":"Sanguinet / de Maisonneuve","n":"6013","st":2,"b":false,"su":false,"m":false,"lu":1474315582515,"lc":1488224610103,"bk":false,"bl":false,"la":45.51339,"lo":-73.56255,"da":27,"dx":0,"ba":0,"bx":0
+    },{
+      "id":14,"s":"St-Denis / de Maisonneuve","n":"6014","st":2,"b":false,"su":true,"m":false,"lu":1487952850643,"lc":1487952856423,"bk":false,"bl":false,"la":45.513917296074005,"lo":-73.56076508760452,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":15,"s":"Berri / de Maisonneuve","n":"6015","st":2,"b":false,"su":true,"m":false,"lu":1479564667555,"lc":1488205279561,"bk":false,"bl":false,"la":45.515299,"lo":-73.561273,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":16,"s":"Jacques-Le Ber / de la Pointe Nord","n":"6016","st":2,"b":false,"su":true,"m":false,"lu":1479496650417,"lc":1488285663765,"bk":false,"bl":false,"la":45.472503,"lo":-73.539285,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":17,"s":"Square Ahmerst / Wolfe","n":"6017","st":2,"b":false,"su":true,"m":false,"lu":1479981915305,"lc":1488205028848,"bk":false,"bl":false,"la":45.52106924,"lo":-73.5637571,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":18,"s":"St-Andr\u00c3\u00a9 / Ontario","n":"6018","st":2,"b":false,"su":true,"m":false,"lu":1479981752655,"lc":1488205009304,"bk":false,"bl":false,"la":45.51889,"lo":-73.56353,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":19,"s":"Berri / Sherbrooke","n":"6019","st":2,"b":false,"su":true,"m":false,"lu":1479582734572,"lc":1488297963753,"bk":false,"bl":false,"la":45.5179101,"lo":-73.56714338,"da":3,"dx":24,"ba":0,"bx":0
+    },{
+      "id":20,"s":"Sanguinet / Ontario","n":"6020","st":2,"b":false,"su":false,"m":false,"lu":1473086232512,"lc":1488201868199,"bk":false,"bl":false,"la":45.514784,"lo":-73.565338,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":21,"s":"Montcalm / Ontario","n":"6902","st":2,"b":false,"su":true,"m":false,"lu":1487949772489,"lc":1487951015554,"bk":false,"bl":false,"la":45.5210937,"lo":-73.56225103,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":22,"s":"de la Commune / Berri","n":"6023","st":2,"b":false,"su":true,"m":false,"lu":1479566528998,"lc":1487859457718,"bk":false,"bl":false,"la":45.51086,"lo":-73.54983,"da":25,"dx":2,"ba":0,"bx":0
+    },{
+      "id":23,"s":"des \u00c3\u2030rables / Sherbrooke","n":"6024","st":2,"b":false,"su":true,"m":false,"lu":1479648207888,"lc":1488285568453,"bk":false,"bl":false,"la":45.531367,"lo":-73.562624,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":24,"s":"Notre-Dame / St-Gabriel","n":"6025","st":2,"b":false,"su":true,"m":false,"lu":1479654579687,"lc":1487859509662,"bk":false,"bl":false,"la":45.50714391928411,"lo":-73.55511903762817,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":25,"s":"de la Commune / Place Jacques-Cartier","n":"6026","st":2,"b":false,"su":true,"m":false,"lu":1487962600149,"lc":1487962605381,"bk":false,"bl":false,"la":45.5076289,"lo":-73.55187625,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":26,"s":"de Maisonneuve / Mansfield","n":"6027","st":2,"b":false,"su":true,"m":false,"lu":1479301381412,"lc":1488223868673,"bk":false,"bl":false,"la":45.5022921,"lo":-73.57325211,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":28,"s":"B\u00c3\u00a9lair / St-Antoine","n":"6029","st":2,"b":false,"su":true,"m":false,"lu":1479411133425,"lc":1488296027766,"bk":false,"bl":false,"la":45.482779,"lo":-73.58452544,"da":2,"dx":17,"ba":0,"bx":0
+    },{
+      "id":30,"s":"St-Antoine / St-Fran\u00c3\u00a7ois-Xavier","n":"6031","st":2,"b":false,"su":true,"m":false,"lu":1479646720244,"lc":1488220913599,"bk":false,"bl":false,"la":45.50449,"lo":-73.5592,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":31,"s":"M\u00c3\u00a9tro Place-d'Armes (Viger / St-Urbain)","n":"6032","st":2,"b":false,"su":true,"m":false,"lu":1488217179444,"lc":1488217241970,"bk":false,"bl":false,"la":45.50623,"lo":-73.55976,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":32,"s":"18e avenue / Beaubien","n":"6033","st":2,"b":false,"su":true,"m":false,"lu":1487861490575,"lc":1487863052738,"bk":false,"bl":false,"la":45.559761,"lo":-73.582429,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":33,"s":"St-Urbain / Ren\u00c3\u00a9-L\u00c3\u00a9vesque","n":"6034","st":2,"b":false,"su":true,"m":false,"lu":1487770940521,"lc":1487773407836,"bk":false,"bl":false,"la":45.5079,"lo":-73.563112,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":34,"s":"Viger/Jeanne Mance","n":"6035","st":2,"b":false,"su":true,"m":false,"lu":1487947533957,"lc":1487949476874,"bk":false,"bl":false,"la":45.504803,"lo":-73.5612,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":35,"s":"de la Commune / St-Sulpice","n":"6036","st":2,"b":false,"su":true,"m":false,"lu":1488286628599,"lc":1488286659682,"bk":false,"bl":false,"la":45.5042453,"lo":-73.55354458,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":36,"s":"St-Nicolas / Place d'Youville","n":"6037","st":2,"b":false,"su":true,"m":false,"lu":1479823820256,"lc":1487952954563,"bk":false,"bl":false,"la":45.50197437877896,"lo":-73.55515658855438,"da":14,"dx":0,"ba":0,"bx":1
+    },{
+      "id":37,"s":"McGill / Place d'Youville","n":"6038","st":2,"b":false,"su":true,"m":false,"lu":1479809068430,"lc":1487963987293,"bk":false,"bl":false,"la":45.49975,"lo":-73.55566,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":38,"s":"McGill / des R\u00c3\u00a9collets","n":"6039","st":2,"b":false,"su":true,"m":false,"lu":1487858330391,"lc":1487858761553,"bk":false,"bl":false,"la":45.500779,"lo":-73.558826,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":39,"s":"St-Jacques / St-Pierre","n":"6040","st":2,"b":false,"su":true,"m":false,"lu":1479819312371,"lc":1487962336988,"bk":false,"bl":false,"la":45.5028,"lo":-73.55917,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":40,"s":"St-Jacques / Gauvin","n":"6041","st":2,"b":false,"su":true,"m":false,"lu":1479821463754,"lc":1487862982981,"bk":false,"bl":false,"la":45.500674,"lo":-73.561082,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":41,"s":"de la Gaucheti\u00c3\u00a8re / Robert-Bourassa","n":"6042","st":2,"b":false,"su":true,"m":false,"lu":1488208166420,"lc":1488208038786,"bk":false,"bl":false,"la":45.500675,"lo":-73.565354,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":42,"s":"Square Victoria","n":"6043","st":2,"b":false,"su":true,"m":false,"lu":1488222796254,"lc":1488222796264,"bk":false,"bl":false,"la":45.50206,"lo":-73.56295,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":43,"s":"Roy / St-Andr\u00c3\u00a9","n":"6044","st":2,"b":false,"su":true,"m":false,"lu":1479819462800,"lc":1488222761121,"bk":false,"bl":false,"la":45.5216687265838,"lo":-73.57031106948853,"da":0,"dx":15,"ba":0,"bx":0
+    },{
+      "id":45,"s":"de la Gaucheti\u00c3\u00a8re / Mansfield","n":"6046","st":2,"b":false,"su":true,"m":false,"lu":1488297627137,"lc":1488297739925,"bk":false,"bl":false,"la":45.49871,"lo":-73.56671,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":46,"s":"Milton / Durocher","n":"6204","st":2,"b":false,"su":true,"m":false,"lu":1479822563209,"lc":1487948394473,"bk":false,"bl":false,"la":45.5081439,"lo":-73.57477158,"da":2,"dx":29,"ba":0,"bx":0
+    },{
+      "id":47,"s":"Queen / Ottawa","n":"6048","st":2,"b":false,"su":true,"m":false,"lu":1479476656214,"lc":1488215848937,"bk":false,"bl":false,"la":45.4979738,"lo":-73.55614096,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":48,"s":"King / Wellington","n":"6049","st":2,"b":false,"su":true,"m":false,"lu":1479653792113,"lc":1488215797454,"bk":false,"bl":false,"la":45.4982,"lo":-73.55488,"da":1,"dx":30,"ba":0,"bx":0
+    },{
+      "id":49,"s":"de la Commune / McGill","n":"6050","st":2,"b":false,"su":true,"m":false,"lu":1479585242063,"lc":1487862977172,"bk":false,"bl":false,"la":45.4986731,"lo":-73.55256289,"da":2,"dx":29,"ba":0,"bx":0
+    },{
+      "id":50,"s":"de Gasp\u00c3\u00a9 / Marmier","n":"6051","st":2,"b":false,"su":true,"m":false,"lu":1479846168721,"lc":1479846190316,"bk":false,"bl":false,"la":45.529686,"lo":-73.601728,"da":3,"dx":8,"ba":0,"bx":0
+    },{
+      "id":51,"s":"De la Commune / King","n":"6052","st":2,"b":false,"su":true,"m":false,"lu":1488291057920,"lc":1488291982572,"bk":false,"bl":false,"la":45.4980302,"lo":-73.55266482,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":52,"s":"Belmont / Beaver Hall","n":"6053","st":2,"b":false,"su":true,"m":false,"lu":1479314405659,"lc":1488223809586,"bk":false,"bl":false,"la":45.502326,"lo":-73.565138,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":55,"s":"Peel / avenue des Canadiens de Montr\u00c3\u00a9al","n":"6057","st":2,"b":false,"su":true,"m":false,"lu":1479390912929,"lc":1488220886905,"bk":false,"bl":false,"la":45.497697,"lo":-73.568646,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":56,"s":"Cypress / Peel","n":"6058","st":2,"b":false,"su":true,"m":false,"lu":1488288853017,"lc":1488292892837,"bk":false,"bl":false,"la":45.49932551028458,"lo":-73.57176750898361,"da":1,"dx":0,"ba":0,"bx":0
+    },{
+      "id":57,"s":"Metcalfe / Ste-Catherine","n":"6059","st":2,"b":false,"su":false,"m":false,"lu":1478013156829,"lc":1488207237624,"bk":false,"bl":false,"la":45.50068473942228,"lo":-73.57215642929077,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":58,"s":"Mansfield / Ren\u00c3\u00a9-L\u00c3\u00a9vesque","n":"6060","st":2,"b":false,"su":true,"m":false,"lu":1479298048185,"lc":1487873727836,"bk":false,"bl":false,"la":45.50015,"lo":-73.56928,"da":51,"dx":0,"ba":0,"bx":0
+    },{
+      "id":59,"s":"Ste-Catherine / McGill College","n":"6061","st":2,"b":false,"su":true,"m":false,"lu":1479298536011,"lc":1488224282187,"bk":false,"bl":false,"la":45.50176,"lo":-73.57128,"da":31,"dx":0,"ba":0,"bx":0
+    },{
+      "id":60,"s":"Drummond / Ste-Catherine","n":"6062","st":2,"b":false,"su":false,"m":false,"lu":1476349228360,"lc":1488211682661,"bk":false,"bl":false,"la":45.49863930330429,"lo":-73.57422709465027,"da":11,"dx":0,"ba":0,"bx":0
+    },{
+      "id":61,"s":"Drummond / de Maisonneuve","n":"6063","st":2,"b":false,"su":false,"m":false,"lu":1476369514633,"lc":1488211729327,"bk":false,"bl":false,"la":45.49947,"lo":-73.57591,"da":39,"dx":0,"ba":0,"bx":0
+    },{
+      "id":62,"s":"de Maisonneuve / Stanley","n":"6064","st":2,"b":false,"su":true,"m":false,"lu":1479391735704,"lc":1488207458093,"bk":false,"bl":false,"la":45.50038,"lo":-73.57507,"da":63,"dx":1,"ba":0,"bx":1
+    },{
+      "id":63,"s":"de la Montagne / Sherbrooke","n":"6065","st":2,"b":false,"su":true,"m":false,"lu":1479409356779,"lc":1488198843928,"bk":false,"bl":false,"la":45.4996771,"lo":-73.57884854,"da":12,"dx":7,"ba":0,"bx":0
+    },{
+      "id":64,"s":"de Maisonneuve / Robert-Bourassa","n":"6067","st":2,"b":false,"su":true,"m":false,"lu":1479311696627,"lc":1488287050363,"bk":false,"bl":false,"la":45.503475,"lo":-73.572103,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":65,"s":"Mansfield / Sherbrooke","n":"6068","st":2,"b":false,"su":false,"m":false,"lu":1478526771776,"lc":1488211776621,"bk":false,"bl":false,"la":45.50297,"lo":-73.57505,"da":27,"dx":0,"ba":0,"bx":0
+    },{
+      "id":67,"s":"Milton / Universit\u00c3\u00a9","n":"6070","st":2,"b":false,"su":true,"m":false,"lu":1479823984821,"lc":1488295189513,"bk":false,"bl":false,"la":45.5064484,"lo":-73.57634872,"da":38,"dx":0,"ba":0,"bx":1
+    },{
+      "id":68,"s":"de Maisonneuve / Aylmer","n":"6073","st":2,"b":false,"su":true,"m":false,"lu":1479290548790,"lc":1488200254212,"bk":false,"bl":false,"la":45.50501,"lo":-73.57069,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":69,"s":"Ville-Marie / Ste-Catherine","n":"6076","st":2,"b":false,"su":true,"m":false,"lu":1479895356017,"lc":1487952684935,"bk":false,"bl":false,"la":45.558062603368306,"lo":-73.52940759679768,"da":18,"dx":1,"ba":0,"bx":0
+    },{
+      "id":71,"s":"de Maisonneuve / de Bleury","n":"6078","st":2,"b":false,"su":true,"m":false,"lu":1479302022506,"lc":1488291368716,"bk":false,"bl":false,"la":45.50708,"lo":-73.56917,"da":70,"dx":1,"ba":0,"bx":0
+    },{
+      "id":72,"s":"Mackay / Ren\u00c3\u00a9-L\u00c3\u00a9vesque","n":"6080","st":2,"b":false,"su":true,"m":false,"lu":1479324013710,"lc":1488291986370,"bk":false,"bl":false,"la":45.49449932378212,"lo":-73.57417345046997,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":73,"s":"St-Alexandre / Ste-Catherine","n":"6081","st":2,"b":false,"su":true,"m":false,"lu":1479316786959,"lc":1488207955382,"bk":false,"bl":false,"la":45.50537693,"lo":-73.5676195,"da":31,"dx":0,"ba":0,"bx":0
+    },{
+      "id":74,"s":"6e avenue / Rosemont","n":"6082","st":2,"b":false,"su":true,"m":false,"lu":1488215550616,"lc":1488218742789,"bk":false,"bl":false,"la":45.550613,"lo":-73.582883,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":75,"s":"Square Phillips","n":"6083","st":2,"b":false,"su":true,"m":false,"lu":1479314345915,"lc":1488220898525,"bk":false,"bl":false,"la":45.5041581,"lo":-73.5686929,"da":41,"dx":0,"ba":0,"bx":0
+    },{
+      "id":76,"s":"Lambert-Closse / Tupper","n":"6084","st":2,"b":false,"su":true,"m":false,"lu":1479377040189,"lc":1488207246050,"bk":false,"bl":false,"la":45.489609,"lo":-73.582445,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":77,"s":"Notre-Dame / Peel","n":"6085","st":2,"b":false,"su":true,"m":false,"lu":1488215790584,"lc":1488218119344,"bk":false,"bl":false,"la":45.4952,"lo":-73.56328,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":78,"s":"St-Jacques / Guy","n":"6089","st":2,"b":false,"su":true,"m":false,"lu":1481018702580,"lc":1488218462963,"bk":false,"bl":false,"la":45.49141473103975,"lo":-73.56995498790637,"da":11,"dx":0,"ba":0,"bx":0
+    },{
+      "id":79,"s":"M\u00c3\u00a9tro Lucien-L'Allier  (Lucien l'Allier / Argyle)","n":"6090","st":2,"b":false,"su":true,"m":false,"lu":1488200073530,"lc":1488200377192,"bk":false,"bl":false,"la":45.49486,"lo":-73.57108,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":80,"s":"Joseph Manceau / Ren\u00c3\u00a9-L\u00c3\u00a9vesque","n":"6091","st":2,"b":false,"su":true,"m":false,"lu":1479388128473,"lc":1488222778799,"bk":false,"bl":false,"la":45.49172173024755,"lo":-73.57688951320596,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":81,"s":"Crescent / Ren\u00c3\u00a9-L\u00c3\u00a9vesque","n":"6092","st":2,"b":false,"su":true,"m":false,"lu":1479325037001,"lc":1488286954755,"bk":false,"bl":false,"la":45.49606,"lo":-73.57348,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":82,"s":"de Ch\u00c3\u00a2teaubriand / Beaubien","n":"6912","st":2,"b":false,"su":true,"m":false,"lu":1479920096654,"lc":1487950981349,"bk":false,"bl":false,"la":45.5353406,"lo":-73.60365897,"da":3,"dx":16,"ba":0,"bx":0
+    },{
+      "id":83,"s":"Tupper / Atwater","n":"6194","st":2,"b":false,"su":true,"m":false,"lu":1487963849777,"lc":1488198814912,"bk":false,"bl":false,"la":45.48885477417901,"lo":-73.58359336853027,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":84,"s":"Chomedey / de Maisonneuve","n":"6095","st":2,"b":false,"su":true,"m":false,"lu":1479385215794,"lc":1488285568811,"bk":false,"bl":false,"la":45.4917542,"lo":-73.58397156,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":85,"s":"Lucien L'Allier / St-Jacques","n":"6096","st":2,"b":false,"su":true,"m":false,"lu":1479501782282,"lc":1488289986170,"bk":false,"bl":false,"la":45.49352163,"lo":-73.5684255,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":86,"s":"Towers / Ste-Catherine","n":"6097","st":2,"b":false,"su":true,"m":false,"lu":1479308369088,"lc":1488210190813,"bk":false,"bl":false,"la":45.492504,"lo":-73.581088,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":87,"s":"Bishop / Ste-Catherine","n":"6098","st":2,"b":false,"su":true,"m":false,"lu":1479305392846,"lc":1488217127132,"bk":false,"bl":false,"la":45.49642,"lo":-73.57616,"da":26,"dx":1,"ba":0,"bx":0
+    },{
+      "id":88,"s":"Bishop / de Maisonneuve","n":"6099","st":2,"b":false,"su":false,"m":false,"lu":1478531273106,"lc":1488220837399,"bk":false,"bl":false,"la":45.49741095430152,"lo":-73.57827052474022,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":89,"s":"Mackay /de Maisonneuve (Sud)","n":"6100","st":2,"b":false,"su":true,"m":false,"lu":1479392207207,"lc":1488218761789,"bk":false,"bl":false,"la":45.49659,"lo":-73.57851,"da":47,"dx":0,"ba":0,"bx":0
+    },{
+      "id":90,"s":"M\u00c3\u00a9tro Villa Maria (D\u00c3\u00a9carie / Monkland)","n":"6101","st":2,"b":false,"su":true,"m":false,"lu":1479481304044,"lc":1488286540565,"bk":false,"bl":false,"la":45.479483,"lo":-73.61979,"da":11,"dx":0,"ba":0,"bx":0
+    },{
+      "id":91,"s":"Lincoln / du Fort","n":"6102","st":2,"b":false,"su":true,"m":false,"lu":1488205908982,"lc":1488205908990,"bk":false,"bl":false,"la":45.493034,"lo":-73.583836,"da":2,"dx":0,"ba":0,"bx":0
+    },{
+      "id":92,"s":"Lesp\u00c3\u00a9rance / Rouen","n":"6103","st":2,"b":false,"su":true,"m":false,"lu":1479895263008,"lc":1487873745709,"bk":false,"bl":false,"la":45.538799,"lo":-73.552496,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":93,"s":"Wolfe / Ren\u00c3\u00a9-L\u00c3\u00a9vesque","n":"6104","st":2,"b":false,"su":true,"m":false,"lu":1487858471860,"lc":1487870942962,"bk":false,"bl":false,"la":45.516872646826776,"lo":-73.55417490005493,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":94,"s":"Plessis / Ren\u00c3\u00a9-L\u00c3\u00a9vesque","n":"6105","st":2,"b":false,"su":true,"m":false,"lu":1480012571555,"lc":1487954827521,"bk":false,"bl":false,"la":45.519376,"lo":-73.55195135,"da":0,"dx":19,"ba":0,"bx":0
+    },{
+      "id":95,"s":"Ren\u00c3\u00a9-L\u00c3\u00a9vesque / Papineau","n":"6106","st":2,"b":false,"su":true,"m":false,"lu":1479895506169,"lc":1487953909933,"bk":false,"bl":false,"la":45.52114,"lo":-73.54926,"da":33,"dx":0,"ba":0,"bx":0
+    },{
+      "id":96,"s":"St-Mathieu /Ste-Catherine","n":"6107","st":2,"b":false,"su":true,"m":false,"lu":1488207271722,"lc":1488207326145,"bk":false,"bl":false,"la":45.493718,"lo":-73.579186,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":97,"s":"Logan / Fullum","n":"6108","st":2,"b":false,"su":true,"m":false,"lu":1480068245087,"lc":1488210986181,"bk":false,"bl":false,"la":45.528448693514136,"lo":-73.55108499526978,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":98,"s":"Quai de la navette fluviale","n":"6109","st":2,"b":false,"su":false,"m":false,"lu":1488207391079,"lc":1488207286361,"bk":false,"bl":false,"la":45.51341276005555,"lo":-73.53825330734253,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":99,"s":"Poupart / Ste-Catherine","n":"6110","st":2,"b":false,"su":true,"m":false,"lu":1480068184884,"lc":1487949357923,"bk":false,"bl":false,"la":45.529033,"lo":-73.54641,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":100,"s":"Fullum / Jacques-Langlois","n":"6111","st":2,"b":false,"su":true,"m":false,"lu":1480085018508,"lc":1488218154769,"bk":false,"bl":false,"la":45.52611112537493,"lo":-73.54607462882996,"da":0,"dx":19,"ba":0,"bx":0
+    },{
+      "id":101,"s":"Montcalm / de Maisonneuve","n":"6112","st":2,"b":false,"su":true,"m":false,"lu":1487946073591,"lc":1487948338984,"bk":false,"bl":false,"la":45.519157,"lo":-73.55786,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":102,"s":"Alexandre-DeS\u00c3\u00a8ve / de Maisonneuve","n":"6113","st":2,"b":false,"su":true,"m":false,"lu":1479844674543,"lc":1488210876332,"bk":false,"bl":false,"la":45.5219,"lo":-73.55534,"da":3,"dx":16,"ba":0,"bx":0
+    },{
+      "id":103,"s":"M\u00c3\u00a9tro Papineau (Cartier / Ste-Catherine)","n":"6114","st":2,"b":false,"su":true,"m":false,"lu":1479842883394,"lc":1488224609813,"bk":false,"bl":false,"la":45.52353,"lo":-73.55199,"da":2,"dx":23,"ba":0,"bx":0
+    },{
+      "id":104,"s":"Benny / Monkland","n":"6115","st":2,"b":false,"su":true,"m":false,"lu":1488292780648,"lc":1488292892479,"bk":false,"bl":false,"la":45.466965,"lo":-73.631664,"da":2,"dx":0,"ba":0,"bx":0
+    },{
+      "id":105,"s":"Plessis / Ontario","n":"6116","st":2,"b":false,"su":false,"m":false,"lu":1478439566072,"lc":1488289902905,"bk":false,"bl":false,"la":45.523584,"lo":-73.560941,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":106,"s":"Robin / de la Visitation","n":"6117","st":2,"b":false,"su":true,"m":false,"lu":1480068319438,"lc":1488198929225,"bk":false,"bl":false,"la":45.52087,"lo":-73.55922,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":107,"s":"Champlain / Ontario","n":"6118","st":2,"b":false,"su":true,"m":false,"lu":1480090038530,"lc":1487963074542,"bk":false,"bl":false,"la":45.52504753729988,"lo":-73.56003552675247,"da":16,"dx":3,"ba":0,"bx":0
+    },{
+      "id":108,"s":"Dorion / Ontario","n":"6119","st":2,"b":false,"su":true,"m":false,"lu":1480018534500,"lc":1487951108253,"bk":false,"bl":false,"la":45.52697,"lo":-73.558021,"da":0,"dx":31,"ba":0,"bx":0
+    },{
+      "id":109,"s":"Ontario / du Havre","n":"6120","st":2,"b":false,"su":true,"m":false,"lu":1487941026999,"lc":1487941144231,"bk":false,"bl":false,"la":45.5336609,"lo":-73.5521968,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":110,"s":"du Havre / Rouen","n":"6121","st":2,"b":false,"su":true,"m":false,"lu":1479912612992,"lc":1487953927349,"bk":false,"bl":false,"la":45.53480699,"lo":-73.5553577,"da":0,"dx":1,"ba":0,"bx":0
+    },{
+      "id":111,"s":"Logan / d'Iberville","n":"6122","st":2,"b":false,"su":true,"m":false,"lu":1479895547793,"lc":1487955806161,"bk":false,"bl":false,"la":45.53057,"lo":-73.54913,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":112,"s":"Alexandre de S\u00c3\u00a8ve / La Fontaine","n":"6123","st":2,"b":false,"su":true,"m":false,"lu":1487941878244,"lc":1487941638223,"bk":false,"bl":false,"la":45.523217,"lo":-73.558187,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":113,"s":"Poupart / Ontario","n":"6124","st":2,"b":false,"su":true,"m":false,"lu":1488198753244,"lc":1488200064663,"bk":false,"bl":false,"la":45.531834,"lo":-73.553478,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":114,"s":"Ellendale / C\u00c3\u00b4te-des-Neiges","n":"6125","st":2,"b":false,"su":true,"m":false,"lu":1479582030849,"lc":1488290579926,"bk":false,"bl":false,"la":45.499757,"lo":-73.629298,"da":1,"dx":26,"ba":0,"bx":0
+    },{
+      "id":115,"s":"Rouen / Fullum","n":"6126","st":2,"b":false,"su":true,"m":false,"lu":1479992311605,"lc":1488292006472,"bk":false,"bl":false,"la":45.53217,"lo":-73.55859,"da":2,"dx":13,"ba":0,"bx":0
+    },{
+      "id":116,"s":"Henri-Julien / de Castelneau","n":"6127","st":2,"b":false,"su":true,"m":false,"lu":1479895442076,"lc":1488198815201,"bk":false,"bl":false,"la":45.537877,"lo":-73.618323,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":117,"s":"Hogan / Ontario","n":"6128","st":2,"b":false,"su":true,"m":false,"lu":1479895423636,"lc":1487952620563,"bk":false,"bl":false,"la":45.535295480380306,"lo":-73.55116009712219,"da":11,"dx":0,"ba":0,"bx":0
+    },{
+      "id":118,"s":"Sherbrooke / Frontenac","n":"6130","st":2,"b":false,"su":true,"m":false,"lu":1479895456037,"lc":1488221629226,"bk":false,"bl":false,"la":45.5367,"lo":-73.56081,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":119,"s":"Fullum / Sherbrooke ","n":"6131","st":2,"b":false,"su":true,"m":false,"lu":1479653509041,"lc":1488295127083,"bk":false,"bl":false,"la":45.533924,"lo":-73.562425,"da":2,"dx":25,"ba":0,"bx":0
+    },{
+      "id":120,"s":"Terrasse Mercure / Fullum","n":"6133","st":2,"b":false,"su":true,"m":false,"lu":1479646520953,"lc":1488210141404,"bk":false,"bl":false,"la":45.535614,"lo":-73.566014,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":121,"s":"de Bordeaux / Sherbrooke","n":"6129","st":2,"b":false,"su":true,"m":false,"lu":1488282279219,"lc":1488283978895,"bk":false,"bl":false,"la":45.53002706078813,"lo":-73.56317639350891,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":122,"s":"Ste-Famille / Sherbrooke","n":"6202","st":2,"b":false,"su":true,"m":false,"lu":1479832491890,"lc":1487963111646,"bk":false,"bl":false,"la":45.510016,"lo":-73.570654,"da":0,"dx":23,"ba":0,"bx":0
+    },{
+      "id":123,"s":"University / Prince-Arthur","n":"6047","st":2,"b":false,"su":true,"m":false,"lu":1479834708005,"lc":1487964023393,"bk":false,"bl":false,"la":45.50766169576538,"lo":-73.57885992183583,"da":0,"dx":23,"ba":0,"bx":0
+    },{
+      "id":124,"s":"Hutchison/ Prince-Arthur","n":"6079","st":2,"b":false,"su":true,"m":false,"lu":1479821028149,"lc":1488296658681,"bk":false,"bl":false,"la":45.509864,"lo":-73.576105,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":125,"s":"Angus (Molson / William-Tremblay)","n":"6022","st":2,"b":false,"su":true,"m":false,"lu":1479841875916,"lc":1488294527244,"bk":false,"bl":false,"la":45.54172920185872,"lo":-73.56549382209778,"da":18,"dx":1,"ba":0,"bx":0
+    },{
+      "id":126,"s":"Atwater / Sherbrooke","n":"6093","st":2,"b":false,"su":true,"m":false,"lu":1479386770215,"lc":1488223978641,"bk":false,"bl":false,"la":45.49132174886071,"lo":-73.58780980110168,"da":19,"dx":4,"ba":0,"bx":0
+    },{
+      "id":127,"s":"Drolet / Beaubien","n":"6913","st":2,"b":false,"su":true,"m":false,"lu":1479484175482,"lc":1488283950836,"bk":false,"bl":false,"la":45.533348,"lo":-73.605834,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":128,"s":"Alma / Beaubien","n":"6915","st":2,"b":false,"su":true,"m":false,"lu":1479493822516,"lc":1488292790801,"bk":false,"bl":false,"la":45.53237205692519,"lo":-73.60643248568522,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":129,"s":"Parc du P\u00c3\u00a9lican (2e avenue / St-Joseph)","n":"6916","st":2,"b":false,"su":true,"m":false,"lu":1479918532120,"lc":1488290608447,"bk":false,"bl":false,"la":45.544513,"lo":-73.571564,"da":15,"dx":4,"ba":0,"bx":0
+    },{
+      "id":130,"s":"9e avenue / Dandurand","n":"6918","st":2,"b":false,"su":true,"m":false,"lu":1479917446117,"lc":1488201224416,"bk":false,"bl":false,"la":45.550769,"lo":-73.57711,"da":11,"dx":0,"ba":0,"bx":0
+    },{
+      "id":131,"s":"Marquette / Jean-Talon","n":"6923","st":2,"b":false,"su":true,"m":false,"lu":1479926529789,"lc":1487949718847,"bk":false,"bl":false,"la":45.547397448009754,"lo":-73.60766351222992,"da":16,"dx":3,"ba":0,"bx":0
+    },{
+      "id":132,"s":"des \u00c3\u2030cores / Jean-Talon","n":"6925","st":2,"b":false,"su":false,"m":false,"lu":1475416320661,"lc":1487873789866,"bk":false,"bl":false,"la":45.55244260913485,"lo":-73.60300183296204,"da":11,"dx":0,"ba":0,"bx":0
+    },{
+      "id":133,"s":"Metcalfe / de Maisonneuve","n":"6072","st":2,"b":false,"su":false,"m":false,"lu":1478001599468,"lc":1488299267635,"bk":false,"bl":false,"la":45.50171494932855,"lo":-73.57413053512573,"da":43,"dx":0,"ba":0,"bx":0
+    },{
+      "id":134,"s":"University / des Pins","n":"6075","st":2,"b":false,"su":true,"m":false,"lu":1479819915036,"lc":1487951874632,"bk":false,"bl":false,"la":45.508356,"lo":-73.580498,"da":2,"dx":29,"ba":0,"bx":0
+    },{
+      "id":135,"s":"Gascon / Rachel","n":"6134","st":2,"b":false,"su":true,"m":false,"lu":1479981889680,"lc":1488299333294,"bk":false,"bl":false,"la":45.537964,"lo":-73.562643,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":136,"s":"Larivi\u00c3\u00a8re / de Lorimier","n":"6132","st":2,"b":false,"su":true,"m":false,"lu":1479993755022,"lc":1487870580854,"bk":false,"bl":false,"la":45.52915520624575,"lo":-73.559410572052,"da":0,"dx":23,"ba":0,"bx":0
+    },{
+      "id":137,"s":"M\u00c3\u00a9tro Laurier (Rivard / Laurier)","n":"6136","st":2,"b":false,"su":true,"m":false,"lu":1487940955036,"lc":1487942385203,"bk":false,"bl":false,"la":45.52761627,"lo":-73.5891147,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":138,"s":"Gauthier / Papineau","n":"6137","st":2,"b":false,"su":false,"m":false,"lu":1478789733595,"lc":1488211663178,"bk":false,"bl":false,"la":45.5296926,"lo":-73.5673888,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":139,"s":"Gauthier / De Lorimier","n":"6138","st":2,"b":false,"su":true,"m":false,"lu":1479927925809,"lc":1488223833314,"bk":false,"bl":false,"la":45.531818,"lo":-73.565317,"da":9,"dx":0,"ba":0,"bx":2
+    },{
+      "id":140,"s":"des \u00c3\u2030rables / Gauthier","n":"6139","st":2,"b":false,"su":true,"m":false,"lu":1487962386318,"lc":1487963951439,"bk":false,"bl":false,"la":45.53240768,"lo":-73.5647763,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":141,"s":"Marquette / Rachel","n":"6140","st":2,"b":false,"su":true,"m":false,"lu":1479580650612,"lc":1479580897115,"bk":false,"bl":false,"la":45.5298015824607,"lo":-73.5702896118164,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":142,"s":"de Bordeaux / Rachel","n":"6141","st":2,"b":false,"su":false,"m":false,"lu":1488211150205,"lc":1488211925029,"bk":false,"bl":false,"la":45.53227,"lo":-73.56828,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":143,"s":"Calixa-Lavall\u00c3\u00a9e / Rachel","n":"6142","st":2,"b":false,"su":false,"m":false,"lu":1479125845647,"lc":1488208147714,"bk":false,"bl":false,"la":45.527791,"lo":-73.572056,"da":27,"dx":4,"ba":0,"bx":0
+    },{
+      "id":144,"s":"Rachel / Br\u00c3\u00a9beuf","n":"6143","st":2,"b":false,"su":true,"m":false,"lu":1488197723002,"lc":1488198870488,"bk":false,"bl":false,"la":45.52689,"lo":-73.57264,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":145,"s":"du Parc-La Fontaine / Duluth","n":"6145","st":2,"b":false,"su":false,"m":false,"lu":1488208812303,"lc":1488208812312,"bk":false,"bl":false,"la":45.524565651056875,"lo":-73.57207864522934,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":146,"s":"du Parc-La Fontaine / Roy","n":"6146","st":2,"b":false,"su":true,"m":false,"lu":1488288659222,"lc":1488289955791,"bk":false,"bl":false,"la":45.52290738118557,"lo":-73.56836378574371,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":147,"s":"Calixa-Lavall\u00c3\u00a9e / Sherbrooke","n":"6147","st":2,"b":false,"su":true,"m":false,"lu":1479648318632,"lc":1488288073332,"bk":false,"bl":false,"la":45.52479,"lo":-73.56545,"da":2,"dx":24,"ba":0,"bx":1
+    },{
+      "id":148,"s":"\u00c3\u2030mile-Duploy\u00c3\u00a9 / Sherbrooke","n":"6148","st":2,"b":false,"su":true,"m":false,"lu":1479904174703,"lc":1488201794697,"bk":false,"bl":false,"la":45.52729,"lo":-73.56463,"da":2,"dx":28,"ba":0,"bx":1
+    },{
+      "id":149,"s":"Chapleau / du Mont-Royal","n":"6149","st":2,"b":false,"su":false,"m":false,"lu":1476702786558,"lc":1488197979508,"bk":false,"bl":false,"la":45.53867,"lo":-73.56936,"da":27,"dx":0,"ba":0,"bx":0
+    },{
+      "id":150,"s":"Messier / du Mont-Royal","n":"6150","st":2,"b":false,"su":true,"m":false,"lu":1487955511962,"lc":1487955632247,"bk":false,"bl":false,"la":45.53711414,"lo":-73.5710031,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":151,"s":"des \u00c3\u2030rables / du Mont-Royal","n":"6151","st":2,"b":false,"su":true,"m":false,"lu":1479644975442,"lc":1488286979248,"bk":false,"bl":false,"la":45.53565,"lo":-73.57172,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":152,"s":"Chabot / du Mont-Royal","n":"6152","st":2,"b":false,"su":true,"m":false,"lu":1479656153096,"lc":1487952142232,"bk":false,"bl":false,"la":45.53413436610843,"lo":-73.57349216938019,"da":5,"dx":14,"ba":0,"bx":0
+    },{
+      "id":153,"s":"Cartier / Marie-Anne","n":"6153","st":2,"b":false,"su":true,"m":false,"lu":1479579368209,"lc":1487943496636,"bk":false,"bl":false,"la":45.532674,"lo":-73.571776,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":154,"s":"Marquette / du Mont-Royal","n":"6154","st":2,"b":false,"su":true,"m":false,"lu":1479580584349,"lc":1487954922895,"bk":false,"bl":false,"la":45.53229,"lo":-73.57544,"da":22,"dx":0,"ba":0,"bx":1
+    },{
+      "id":155,"s":"Garnier / du Mont-Royal","n":"6155","st":2,"b":false,"su":true,"m":false,"lu":1479583860741,"lc":1488210788319,"bk":false,"bl":false,"la":45.53092,"lo":-73.57674,"da":27,"dx":0,"ba":0,"bx":0
+    },{
+      "id":156,"s":"Marie-Anne / de la Roche","n":"6156","st":2,"b":false,"su":true,"m":false,"lu":1488199855844,"lc":1488199855860,"bk":false,"bl":false,"la":45.52773841379083,"lo":-73.5762494802475,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":157,"s":"de la Roche / du Mont-Royal","n":"6157","st":2,"b":false,"su":true,"m":false,"lu":1479981753999,"lc":1487873939276,"bk":false,"bl":false,"la":45.5287456,"lo":-73.57865408,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":158,"s":"Gilford / Br\u00c3\u00a9beuf","n":"6158","st":2,"b":false,"su":true,"m":false,"lu":1488284331293,"lc":1488287752078,"bk":false,"bl":false,"la":45.53073,"lo":-73.58153,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":159,"s":"Ann / William","n":"6159","st":2,"b":false,"su":true,"m":false,"lu":1479486653363,"lc":1488286876129,"bk":false,"bl":false,"la":45.495894391754916,"lo":-73.5600972175598,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":160,"s":"Garnier / St-Joseph","n":"6160","st":2,"b":false,"su":true,"m":false,"lu":1488215069588,"lc":1488218480085,"bk":false,"bl":false,"la":45.5329774553515,"lo":-73.58122229576111,"da":2,"dx":0,"ba":0,"bx":0
+    },{
+      "id":161,"s":"Cartier / St-Joseph","n":"6161","st":2,"b":false,"su":true,"m":false,"lu":1479990827030,"lc":1488204156612,"bk":false,"bl":false,"la":45.53576,"lo":-73.57867,"da":3,"dx":16,"ba":0,"bx":0
+    },{
+      "id":162,"s":"Fullum / St-Joseph","n":"6162","st":2,"b":false,"su":true,"m":false,"lu":1479988248579,"lc":1488202551584,"bk":false,"bl":false,"la":45.5398326,"lo":-73.57555881,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":163,"s":"Marquette / Laurier","n":"6163","st":2,"b":false,"su":true,"m":false,"lu":1479808970697,"lc":1487863165590,"bk":false,"bl":false,"la":45.53543,"lo":-73.5822,"da":27,"dx":0,"ba":0,"bx":0
+    },{
+      "id":164,"s":"Chambord / Laurier","n":"6164","st":2,"b":false,"su":true,"m":false,"lu":1487952491435,"lc":1487952640451,"bk":false,"bl":false,"la":45.5329550401632,"lo":-73.58419418334961,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":165,"s":"Br\u00c3\u00a9beuf / Laurier","n":"6165","st":2,"b":false,"su":true,"m":false,"lu":1479809026219,"lc":1487953881991,"bk":false,"bl":false,"la":45.53248,"lo":-73.58507,"da":27,"dx":0,"ba":0,"bx":0
+    },{
+      "id":166,"s":"Br\u00c3\u00a9beuf / St-Gr\u00c3\u00a9goire","n":"6166","st":2,"b":false,"su":true,"m":false,"lu":1487949471952,"lc":1487950991854,"bk":false,"bl":false,"la":45.5341,"lo":-73.58852,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":167,"s":"Marquette / St-Gr\u00c3\u00a9goire","n":"6167","st":2,"b":false,"su":true,"m":false,"lu":1479836635730,"lc":1487962462263,"bk":false,"bl":false,"la":45.53703,"lo":-73.58584,"da":0,"dx":15,"ba":0,"bx":0
+    },{
+      "id":168,"s":"Marmier / St-Denis","n":"6168","st":2,"b":false,"su":true,"m":false,"lu":1480068170220,"lc":1488204155321,"bk":false,"bl":false,"la":45.530871318676006,"lo":-73.59834551811218,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":169,"s":"Boyer / du Mont-Royal","n":"6169","st":2,"b":false,"su":true,"m":false,"lu":1479981823413,"lc":1488201287820,"bk":false,"bl":false,"la":45.52742616970635,"lo":-73.57991807162762,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":170,"s":"de Mentana / Laurier","n":"6170","st":2,"b":false,"su":true,"m":false,"lu":1479808994978,"lc":1487948335123,"bk":false,"bl":false,"la":45.530046,"lo":-73.58677,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":171,"s":"Wolfe / Robin","n":"6171","st":2,"b":false,"su":true,"m":false,"lu":1488287160753,"lc":1488291336881,"bk":false,"bl":false,"la":45.5195,"lo":-73.560269,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":173,"s":"Berri / Cherrier","n":"6173","st":2,"b":false,"su":true,"m":false,"lu":1479645251258,"lc":1488294607336,"bk":false,"bl":false,"la":45.5191458,"lo":-73.5692414,"da":3,"dx":23,"ba":0,"bx":1
+    },{
+      "id":174,"s":"Roy / St-Denis","n":"6174","st":2,"b":false,"su":true,"m":false,"lu":1479988095077,"lc":1488222824944,"bk":false,"bl":false,"la":45.51908,"lo":-73.5727,"da":0,"dx":22,"ba":0,"bx":1
+    },{
+      "id":175,"s":"St-Andr\u00c3\u00a9 / Cherrier","n":"6175","st":2,"b":false,"su":true,"m":false,"lu":1488213674656,"lc":1488217610720,"bk":false,"bl":false,"la":45.520578,"lo":-73.567733,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":176,"s":"St-Andr\u00c3\u00a9 / Duluth","n":"6176","st":2,"b":false,"su":false,"m":false,"lu":1479229283837,"lc":1488221707703,"bk":false,"bl":false,"la":45.523171,"lo":-73.573431,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":177,"s":"St-Hubert / Rachel","n":"6177","st":2,"b":false,"su":true,"m":false,"lu":1479981940860,"lc":1488197932618,"bk":false,"bl":false,"la":45.5235066,"lo":-73.57641309,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":178,"s":"Rivard / Rachel","n":"6178","st":2,"b":false,"su":true,"m":false,"lu":1479981865682,"lc":1487874541840,"bk":false,"bl":false,"la":45.5222776,"lo":-73.5775906,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":179,"s":"Duluth / St-Denis","n":"6179","st":2,"b":false,"su":false,"m":false,"lu":1476816757106,"lc":1488293921042,"bk":false,"bl":false,"la":45.52060423232697,"lo":-73.57598394155502,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":180,"s":"Place de la paix ( Pl. du march\u00c3\u00a9 / St-Dominique )","n":"6180","st":2,"b":false,"su":true,"m":false,"lu":1479667255890,"lc":1487955738219,"bk":false,"bl":false,"la":45.5096853,"lo":-73.56231675,"da":1,"dx":22,"ba":0,"bx":0
+    },{
+      "id":181,"s":"Clark / Rachel","n":"6181","st":2,"b":false,"su":true,"m":false,"lu":1479828978763,"lc":1487951065413,"bk":false,"bl":false,"la":45.5173538,"lo":-73.58212888,"da":31,"dx":0,"ba":0,"bx":0
+    },{
+      "id":182,"s":"de Bullion / du Mont-Royal","n":"6182","st":2,"b":false,"su":true,"m":false,"lu":1479981759579,"lc":1487951779265,"bk":false,"bl":false,"la":45.5215,"lo":-73.5851,"da":18,"dx":0,"ba":0,"bx":1
+    },{
+      "id":183,"s":"Laval / du Mont-Royal","n":"6183","st":2,"b":false,"su":true,"m":false,"lu":1479981928084,"lc":1488204157288,"bk":false,"bl":false,"la":45.52241290921658,"lo":-73.58412981033325,"da":27,"dx":0,"ba":0,"bx":0
+    },{
+      "id":184,"s":"M\u00c3\u00a9tro Mont-Royal (Rivard / du Mont-Royal)","n":"6184","st":2,"b":false,"su":true,"m":false,"lu":1479981684064,"lc":1487960553403,"bk":false,"bl":false,"la":45.524673,"lo":-73.58255,"da":35,"dx":0,"ba":0,"bx":0
+    },{
+      "id":185,"s":"des \u00c3\u2030rables / B\u00c3\u00a9langer","n":"6185","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487873875261,"bk":false,"bl":false,"la":45.5491255,"lo":-73.60091239,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":186,"s":"St-Andr\u00c3\u00a9 / Laurier","n":"6186","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1488209470968,"bk":false,"bl":false,"la":45.52955900967215,"lo":-73.5876018932322,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":187,"s":"Resther / du Mont-Royal","n":"6187","st":2,"b":false,"su":true,"m":false,"lu":1479981786757,"lc":1488293888912,"bk":false,"bl":false,"la":45.52564322426449,"lo":-73.58174800872803,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":188,"s":"Mentana / Marie-Anne","n":"6188","st":2,"b":false,"su":true,"m":false,"lu":1480082957468,"lc":1488299431455,"bk":false,"bl":false,"la":45.525983,"lo":-73.577808,"da":3,"dx":20,"ba":0,"bx":0
+    },{
+      "id":189,"s":"Chabot / Everett","n":"6189","st":2,"b":false,"su":true,"m":false,"lu":1487858506839,"lc":1487874407410,"bk":false,"bl":false,"la":45.550697703294965,"lo":-73.60953032970428,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":190,"s":"Pontiac / Gilford","n":"6190","st":2,"b":false,"su":true,"m":false,"lu":1487964028032,"lc":1487964028045,"bk":false,"bl":false,"la":45.526712438356405,"lo":-73.58483791351318,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":191,"s":"St-Zotique / Clark","n":"6191","st":2,"b":false,"su":true,"m":false,"lu":1479839086733,"lc":1488289391069,"bk":false,"bl":false,"la":45.531401,"lo":-73.612674,"da":2,"dx":13,"ba":0,"bx":0
+    },{
+      "id":192,"s":"Berri / St-Gr\u00c3\u00a9goire","n":"6192","st":2,"b":false,"su":true,"m":false,"lu":1479990852698,"lc":1487953864152,"bk":false,"bl":false,"la":45.529802,"lo":-73.591766,"da":0,"dx":27,"ba":0,"bx":0
+    },{
+      "id":193,"s":"de l'Esplanade / Fairmount","n":"6193","st":2,"b":false,"su":true,"m":false,"lu":1479996693760,"lc":1487954768845,"bk":false,"bl":false,"la":45.521495,"lo":-73.596758,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":194,"s":"de Gasp\u00c3\u00a9 / Fairmount","n":"6094","st":2,"b":false,"su":false,"m":false,"lu":1473938537662,"lc":1488289386115,"bk":false,"bl":false,"la":45.525669,"lo":-73.593016,"da":7,"dx":0,"ba":0,"bx":0
+    },{
+      "id":195,"s":"de Bullion / St-Joseph","n":"6195","st":2,"b":false,"su":true,"m":false,"lu":1479994435780,"lc":1487940052081,"bk":false,"bl":false,"la":45.5240365462478,"lo":-73.59014332294464,"da":2,"dx":25,"ba":0,"bx":0
+    },{
+      "id":196,"s":"Villeneuve / St-Laurent","n":"6196","st":2,"b":false,"su":true,"m":false,"lu":1480079633715,"lc":1487943457215,"bk":false,"bl":false,"la":45.521292873028074,"lo":-73.58936548233031,"da":3,"dx":16,"ba":0,"bx":0
+    },{
+      "id":197,"s":"Bordeaux / Masson","n":"6197","st":2,"b":false,"su":true,"m":false,"lu":1487953656074,"lc":1487954012401,"bk":false,"bl":false,"la":45.53895775569034,"lo":-73.58243197202682,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":198,"s":"H\u00c3\u00a9l\u00c3\u00a8ne-Baillargeon / St-Denis","n":"6198","st":2,"b":false,"su":true,"m":false,"lu":1479992515950,"lc":1487963081402,"bk":false,"bl":false,"la":45.52974,"lo":-73.59527,"da":1,"dx":22,"ba":0,"bx":0
+    },{
+      "id":199,"s":"Clark / St-Viateur","n":"6199","st":2,"b":false,"su":true,"m":false,"lu":1480078214531,"lc":1487865130642,"bk":false,"bl":false,"la":45.52517156097331,"lo":-73.5993754863739,"da":0,"dx":27,"ba":0,"bx":0
+    },{
+      "id":200,"s":"Maguire / St-Laurent","n":"6200","st":2,"b":false,"su":true,"m":false,"lu":1479981698712,"lc":1488210848876,"bk":false,"bl":false,"la":45.52457,"lo":-73.59588,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":201,"s":"Villeneuve / de l'H\u00c3\u00b4tel-de-Ville","n":"6201","st":2,"b":false,"su":true,"m":false,"lu":1480076116973,"lc":1488290628947,"bk":false,"bl":false,"la":45.52352540631033,"lo":-73.58750939369202,"da":31,"dx":0,"ba":0,"bx":0
+    },{
+      "id":202,"s":"Hutchison / Sherbrooke","n":"6203","st":2,"b":false,"su":true,"m":false,"lu":1487858535500,"lc":1487873948972,"bk":false,"bl":false,"la":45.50781,"lo":-73.57208,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":203,"s":"Milton / du Parc","n":"6205","st":2,"b":false,"su":true,"m":false,"lu":1479827105622,"lc":1488289953017,"bk":false,"bl":false,"la":45.50971,"lo":-73.57354,"da":0,"dx":31,"ba":0,"bx":0
+    },{
+      "id":204,"s":"Prince-Arthur / du Parc","n":"6206","st":2,"b":false,"su":true,"m":false,"lu":1479825297907,"lc":1487962263836,"bk":false,"bl":false,"la":45.51059,"lo":-73.57547,"da":2,"dx":37,"ba":0,"bx":0
+    },{
+      "id":205,"s":"Ste-Famille / des Pins","n":"6207","st":2,"b":false,"su":true,"m":false,"lu":1479827835241,"lc":1488294552600,"bk":false,"bl":false,"la":45.51281294953485,"lo":-73.57701659202576,"da":0,"dx":15,"ba":0,"bx":0
+    },{
+      "id":206,"s":"Hutchison / des Pins","n":"6208","st":2,"b":false,"su":true,"m":false,"lu":1479823451505,"lc":1488197957158,"bk":false,"bl":false,"la":45.51069,"lo":-73.57805,"da":1,"dx":18,"ba":0,"bx":0
+    },{
+      "id":207,"s":"Milton / Clark","n":"6209","st":2,"b":false,"su":true,"m":false,"lu":1479818111022,"lc":1487964060221,"bk":false,"bl":false,"la":45.51252,"lo":-73.57062,"da":3,"dx":20,"ba":0,"bx":0
+    },{
+      "id":208,"s":"M\u00c3\u00a9tro Sauv\u00c3\u00a9 (Sauv\u00c3\u00a9 / Berri)","n":"6210","st":2,"b":false,"su":true,"m":false,"lu":1488301460461,"lc":1488301475186,"bk":false,"bl":false,"la":45.550692068419764,"lo":-73.65636706352234,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":209,"s":"Roy / St-Laurent","n":"6211","st":2,"b":false,"su":true,"m":false,"lu":1488198015314,"lc":1488200348575,"bk":false,"bl":false,"la":45.51561,"lo":-73.57569,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":210,"s":"Duluth / de l'Esplanade","n":"6212","st":2,"b":false,"su":true,"m":false,"lu":1479667269347,"lc":1488203674176,"bk":false,"bl":false,"la":45.515171744488164,"lo":-73.58100235462189,"da":7,"dx":8,"ba":0,"bx":0
+    },{
+      "id":211,"s":"Duluth / St-Laurent","n":"6213","st":2,"b":false,"su":true,"m":false,"lu":1479644123685,"lc":1487951825769,"bk":false,"bl":false,"la":45.5171,"lo":-73.57921,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":212,"s":"Square St-Louis","n":"6214","st":2,"b":false,"su":true,"m":false,"lu":1488219665650,"lc":1488220251841,"bk":false,"bl":false,"la":45.51735,"lo":-73.56906,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":213,"s":"St-Cuthbert / St-Urbain","n":"6215","st":2,"b":false,"su":true,"m":false,"lu":1480075900400,"lc":1479817583921,"bk":false,"bl":false,"la":45.51494,"lo":-73.57821,"da":18,"dx":0,"ba":0,"bx":1
+    },{
+      "id":214,"s":"Parc Jeanne Mance (monument George-\u00c3\u2030tienne Cartier)","n":"6216","st":2,"b":false,"su":true,"m":false,"lu":1479636286391,"lc":1487870286835,"bk":false,"bl":false,"la":45.51496,"lo":-73.58503,"da":35,"dx":0,"ba":0,"bx":0
+    },{
+      "id":215,"s":"Marie-Anne / St-Dominique","n":"6217","st":2,"b":false,"su":true,"m":false,"lu":1480085340609,"lc":1487865161625,"bk":false,"bl":false,"la":45.519523,"lo":-73.583618,"da":0,"dx":23,"ba":0,"bx":0
+    },{
+      "id":216,"s":"de l'H\u00c3\u00b4tel-de-Ville / Roy","n":"6219","st":2,"b":false,"su":true,"m":false,"lu":1479636235900,"lc":1487869166365,"bk":false,"bl":false,"la":45.51733310325783,"lo":-73.57443630695343,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":217,"s":"Laval / Duluth","n":"6220","st":2,"b":false,"su":true,"m":false,"lu":1479636099654,"lc":1487943468275,"bk":false,"bl":false,"la":45.51923690964773,"lo":-73.57721507549286,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":218,"s":"du Mont-Royal / Clark","n":"6221","st":2,"b":false,"su":true,"m":false,"lu":1480094234488,"lc":1488287710378,"bk":false,"bl":false,"la":45.51941,"lo":-73.58685,"da":2,"dx":0,"ba":0,"bx":1
+    },{
+      "id":219,"s":"Jeanne Mance / du Mont-Royal","n":"6222","st":2,"b":false,"su":true,"m":false,"lu":1488294393522,"lc":1488295201872,"bk":false,"bl":false,"la":45.5176432,"lo":-73.5889283,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":220,"s":"du Mont-Royal / du Parc","n":"6223","st":2,"b":false,"su":true,"m":false,"lu":1479808960021,"lc":1487869726797,"bk":false,"bl":false,"la":45.517,"lo":-73.589,"da":33,"dx":0,"ba":0,"bx":0
+    },{
+      "id":221,"s":"Villeneuve / du Parc","n":"6224","st":2,"b":false,"su":true,"m":false,"lu":1479549673098,"lc":1487942361484,"bk":false,"bl":false,"la":45.51829,"lo":-73.59235,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":222,"s":"Villeneuve / St-Urbain","n":"6225","st":2,"b":false,"su":true,"m":false,"lu":1488201338877,"lc":1488201338886,"bk":false,"bl":false,"la":45.520188,"lo":-73.590559,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":223,"s":"H\u00c3\u00b4pital Maisonneuve-Rosemont (Rosemont / Chatelain)","n":"6226","st":2,"b":false,"su":true,"m":false,"lu":1479907791611,"lc":1488293948950,"bk":false,"bl":false,"la":45.575707,"lo":-73.561562,"da":19,"dx":8,"ba":0,"bx":0
+    },{
+      "id":224,"s":"de l'Esplanade / Laurier","n":"6227","st":2,"b":false,"su":true,"m":false,"lu":1479981950877,"lc":1488201853119,"bk":false,"bl":false,"la":45.521116220989526,"lo":-73.59478354454039,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":225,"s":"Coloniale / du Mont-Royal","n":"6229","st":2,"b":false,"su":true,"m":false,"lu":1480081109716,"lc":1488296017332,"bk":false,"bl":false,"la":45.52102,"lo":-73.585514,"da":1,"dx":14,"ba":0,"bx":0
+    },{
+      "id":226,"s":"Waverly / St-Viateur","n":"6230","st":2,"b":false,"su":true,"m":false,"lu":1479982013738,"lc":1487949521154,"bk":false,"bl":false,"la":45.52402527115221,"lo":-73.60042154788971,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":227,"s":"Hutchison / St-Viateur","n":"6231","st":2,"b":false,"su":true,"m":false,"lu":1487943095751,"lc":1487944787798,"bk":false,"bl":false,"la":45.521530863589255,"lo":-73.60288381576538,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":228,"s":"Bernard / Clark","n":"6234","st":2,"b":false,"su":true,"m":false,"lu":1480081581343,"lc":1488201308213,"bk":false,"bl":false,"la":45.52697,"lo":-73.60261,"da":0,"dx":23,"ba":0,"bx":0
+    },{
+      "id":229,"s":"St-Dominique / St-Viateur","n":"6235","st":2,"b":false,"su":true,"m":false,"lu":1482331160364,"lc":1488203247820,"bk":false,"bl":false,"la":45.52654331973003,"lo":-73.59823286533356,"da":38,"dx":0,"ba":0,"bx":1
+    },{
+      "id":230,"s":"Laurier / Bordeaux","n":"6236","st":2,"b":false,"su":true,"m":false,"lu":1479981767968,"lc":1487940041963,"bk":false,"bl":false,"la":45.53725879867612,"lo":-73.57917040586472,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":232,"s":"de Lanaudi\u00c3\u00a8re / Gilford","n":"6237","st":2,"b":false,"su":true,"m":false,"lu":1479981861786,"lc":1487963087859,"bk":false,"bl":false,"la":45.532013,"lo":-73.580541,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":233,"s":"Napol\u00c3\u00a9on /  St-Dominique","n":"6903","st":2,"b":false,"su":true,"m":false,"lu":1479652802355,"lc":1487940166859,"bk":false,"bl":false,"la":45.516777,"lo":-73.577784,"da":22,"dx":0,"ba":0,"bx":1
+    },{
+      "id":234,"s":"de Bordeaux / Jean-Talon","n":"6924","st":2,"b":false,"su":true,"m":false,"lu":1479924570522,"lc":1488199853674,"bk":false,"bl":false,"la":45.54970407823863,"lo":-73.60551238059998,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":236,"s":"Hudson / Kent","n":"6240","st":2,"b":false,"su":true,"m":false,"lu":1488198941163,"lc":1488198941171,"bk":false,"bl":false,"la":45.505973,"lo":-73.629593,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":237,"s":"Querbes / Laurier","n":"6241","st":2,"b":false,"su":true,"m":false,"lu":1488215132696,"lc":1488217670957,"bk":false,"bl":false,"la":45.517459023340024,"lo":-73.59792709350586,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":239,"s":"Bloomfield / Bernard","n":"6243","st":2,"b":false,"su":true,"m":false,"lu":1479585769449,"lc":1488292168634,"bk":false,"bl":false,"la":45.52068774,"lo":-73.6084279,"da":0,"dx":19,"ba":0,"bx":0
+    },{
+      "id":241,"s":"Bloomfield / Van Horne","n":"6245","st":2,"b":false,"su":true,"m":false,"lu":1487858326293,"lc":1487858757441,"bk":false,"bl":false,"la":45.5225858,"lo":-73.61265779,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":242,"s":"M\u00c3\u00a9tro Outremont (Wiseman / Van Horne)","n":"6246","st":2,"b":false,"su":true,"m":false,"lu":1487960570571,"lc":1487960606300,"bk":false,"bl":false,"la":45.520265,"lo":-73.614887,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":243,"s":"Casgrain / St-Zotique","n":"6247","st":2,"b":false,"su":true,"m":false,"lu":1479844908626,"lc":1488293900586,"bk":false,"bl":false,"la":45.53304,"lo":-73.61108,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":244,"s":"St-Dominique / Rachel","n":"6248","st":2,"b":false,"su":true,"m":false,"lu":1488298651257,"lc":1488299228812,"bk":false,"bl":false,"la":45.518593,"lo":-73.581566,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":245,"s":"B\u00c3\u00a9langer / St-Denis","n":"6249","st":2,"b":false,"su":true,"m":false,"lu":1479905240875,"lc":1488201220215,"bk":false,"bl":false,"la":45.53696,"lo":-73.61199,"da":2,"dx":13,"ba":0,"bx":0
+    },{
+      "id":246,"s":"Henri-Julien / Jean-Talon","n":"6250","st":2,"b":false,"su":true,"m":false,"lu":1479917155643,"lc":1487943500507,"bk":false,"bl":false,"la":45.53707,"lo":-73.61529,"da":2,"dx":17,"ba":0,"bx":0
+    },{
+      "id":247,"s":"de Gasp\u00c3\u00a9 / Dante","n":"6251","st":2,"b":false,"su":true,"m":false,"lu":1479463367041,"lc":1488291423375,"bk":false,"bl":false,"la":45.534377,"lo":-73.612278,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":248,"s":"Mozart / St-Laurent","n":"6252","st":2,"b":false,"su":true,"m":false,"lu":1479918952590,"lc":1487948291933,"bk":false,"bl":false,"la":45.53318,"lo":-73.61544,"da":3,"dx":12,"ba":0,"bx":0
+    },{
+      "id":249,"s":"Lajeunesse / Jean-Talon","n":"6253","st":2,"b":false,"su":true,"m":false,"lu":1487961074466,"lc":1487961074480,"bk":false,"bl":false,"la":45.53973680304488,"lo":-73.61425638198853,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":250,"s":"Boyer / B\u00c3\u00a9langer","n":"6254","st":2,"b":false,"su":false,"m":false,"lu":1478877271129,"lc":1487960766219,"bk":false,"bl":false,"la":45.54006,"lo":-73.60897,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":251,"s":"Boyer / St-Zotique","n":"6255","st":2,"b":false,"su":false,"m":false,"lu":1478875566679,"lc":1487871220439,"bk":false,"bl":false,"la":45.53848,"lo":-73.60556,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":253,"s":"de St-Vallier / St-Zotique","n":"6257","st":2,"b":false,"su":false,"m":false,"lu":1482336075546,"lc":1488289216687,"bk":false,"bl":false,"la":45.536299,"lo":-73.607773,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":254,"s":"Parc P\u00c3\u00a8re-Marquette (Chambord / Rosemont)","n":"6258","st":2,"b":false,"su":true,"m":false,"lu":1479981896054,"lc":1488291223345,"bk":false,"bl":false,"la":45.53702583434782,"lo":-73.59316617250443,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":255,"s":"Dandurand / de Lorimier","n":"6259","st":2,"b":false,"su":true,"m":false,"lu":1487858554580,"lc":1487869122455,"bk":false,"bl":false,"la":45.540881,"lo":-73.584157,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":256,"s":"Dandurand / Papineau","n":"6260","st":2,"b":false,"su":true,"m":false,"lu":1480006248865,"lc":1488224609549,"bk":false,"bl":false,"la":45.538589,"lo":-73.586302,"da":2,"dx":21,"ba":0,"bx":0
+    },{
+      "id":257,"s":"Louis H\u00c3\u00a9mon / Rosemont","n":"6261","st":2,"b":false,"su":true,"m":false,"lu":1479922415551,"lc":1488297642470,"bk":false,"bl":false,"la":45.54458,"lo":-73.588069,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":258,"s":"de la Roche /  de Bellechasse","n":"6262","st":2,"b":false,"su":true,"m":false,"lu":1488287190919,"lc":1488287781941,"bk":false,"bl":false,"la":45.537159225331315,"lo":-73.59747648239136,"da":1,"dx":0,"ba":0,"bx":0
+    },{
+      "id":259,"s":"Hampton / Monkland","n":"6263","st":2,"b":false,"su":true,"m":false,"lu":1488281959989,"lc":1488286723583,"bk":false,"bl":false,"la":45.471161595177456,"lo":-73.62720608711243,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":260,"s":"Chabot / de Bellechasse","n":"6264","st":2,"b":false,"su":true,"m":false,"lu":1488295211745,"lc":1488295213992,"bk":false,"bl":false,"la":45.5427,"lo":-73.59212,"da":1,"dx":0,"ba":0,"bx":0
+    },{
+      "id":261,"s":"Parthenais / Laurier","n":"6265","st":2,"b":false,"su":true,"m":false,"lu":1479981773210,"lc":1488202574762,"bk":false,"bl":false,"la":45.539259,"lo":-73.577338,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":262,"s":"Louis-H\u00c3\u00a9bert / Beaubien","n":"6266","st":2,"b":false,"su":true,"m":false,"lu":1479403633982,"lc":1488221720942,"bk":false,"bl":false,"la":45.54816007401565,"lo":-73.5920262336731,"da":18,"dx":0,"ba":0,"bx":1
+    },{
+      "id":263,"s":"de Bordeaux / Beaubien","n":"6267","st":2,"b":false,"su":true,"m":false,"lu":1479925212416,"lc":1488298685882,"bk":false,"bl":false,"la":45.54475,"lo":-73.5949,"da":1,"dx":14,"ba":0,"bx":0
+    },{
+      "id":264,"s":"Chambord / Beaubien","n":"6268","st":2,"b":false,"su":true,"m":false,"lu":1479895357919,"lc":1487869151276,"bk":false,"bl":false,"la":45.539932183126695,"lo":-73.59934329986572,"da":11,"dx":0,"ba":0,"bx":0
+    },{
+      "id":265,"s":"Bercy / Ontario","n":"6269","st":2,"b":false,"su":true,"m":false,"lu":1487951685325,"lc":1487951965742,"bk":false,"bl":false,"la":45.53431097726852,"lo":-73.54996919631958,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":266,"s":"Fabre / St-Zotique","n":"6270","st":2,"b":false,"su":true,"m":false,"lu":1479924273042,"lc":1488201908277,"bk":false,"bl":false,"la":45.543541,"lo":-73.600982,"da":4,"dx":15,"ba":0,"bx":0
+    },{
+      "id":267,"s":"Casgrain / de Bellechasse","n":"6271","st":2,"b":false,"su":true,"m":false,"lu":1480068305568,"lc":1487964010301,"bk":false,"bl":false,"la":45.529993,"lo":-73.604214,"da":11,"dx":0,"ba":0,"bx":0
+    },{
+      "id":268,"s":"Bordeaux / St-Zotique","n":"6272","st":2,"b":false,"su":true,"m":false,"lu":1487959656862,"lc":1487960693625,"bk":false,"bl":false,"la":45.546405643046654,"lo":-73.5984206199646,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":269,"s":"Cartier / B\u00c3\u00a9langer","n":"6273","st":2,"b":false,"su":true,"m":false,"lu":1479921140698,"lc":1488203290517,"bk":false,"bl":false,"la":45.546939,"lo":-73.602616,"da":18,"dx":0,"ba":0,"bx":1
+    },{
+      "id":270,"s":"de la Roche / St-Joseph","n":"6274","st":2,"b":false,"su":true,"m":false,"lu":1488197998446,"lc":1488199918327,"bk":false,"bl":false,"la":45.531164,"lo":-73.583695,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":271,"s":"Chambord / Jean-Talon","n":"6275","st":2,"b":false,"su":true,"m":false,"lu":1479913970639,"lc":1488298763133,"bk":false,"bl":false,"la":45.544828,"lo":-73.610458,"da":0,"dx":15,"ba":0,"bx":0
+    },{
+      "id":272,"s":"Chambord / B\u00c3\u00a9langer","n":"6276","st":2,"b":false,"su":true,"m":false,"lu":1488298352949,"lc":1488298845760,"bk":false,"bl":false,"la":45.542983030174845,"lo":-73.6063814163208,"da":2,"dx":0,"ba":0,"bx":0
+    },{
+      "id":273,"s":"Louis-H\u00c3\u00a9bert / St-Zotique","n":"6278","st":2,"b":false,"su":true,"m":false,"lu":1488211254169,"lc":1488215646746,"bk":false,"bl":false,"la":45.55001,"lo":-73.59576,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":274,"s":"Louis-H\u00c3\u00a9bert / B\u00c3\u00a9langer","n":"6279","st":2,"b":false,"su":true,"m":false,"lu":1488285094555,"lc":1488286656086,"bk":false,"bl":false,"la":45.55158237169131,"lo":-73.59915554523468,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":275,"s":"Fabre / Beaubien","n":"6904","st":2,"b":false,"su":true,"m":false,"lu":1479927989463,"lc":1488296596578,"bk":false,"bl":false,"la":45.542055,"lo":-73.597793,"da":14,"dx":0,"ba":0,"bx":1
+    },{
+      "id":276,"s":"Parc Rosemont (Dandurand / d'Iberville)","n":"6905","st":2,"b":false,"su":true,"m":false,"lu":1488294890981,"lc":1488296120115,"bk":false,"bl":false,"la":45.544377,"lo":-73.581018,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":277,"s":"de St-Vallier / Rosemont","n":"6906","st":2,"b":false,"su":true,"m":false,"lu":1479981723249,"lc":1487948286746,"bk":false,"bl":false,"la":45.5319173,"lo":-73.59798342,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":278,"s":"Boyer / Rosemont","n":"6907","st":2,"b":false,"su":false,"m":false,"lu":1479138436182,"lc":1488224609681,"bk":false,"bl":false,"la":45.534136,"lo":-73.595478,"da":22,"dx":0,"ba":0,"bx":1
+    },{
+      "id":279,"s":"de Bellechasse / de St-Vallier","n":"6908","st":2,"b":false,"su":true,"m":false,"lu":1487961323045,"lc":1487962281788,"bk":false,"bl":false,"la":45.5331949357227,"lo":-73.60117256641388,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":280,"s":"Augustin-Cantin / Shearer","n":"6921","st":2,"b":false,"su":true,"m":false,"lu":1488218225594,"lc":1488218244874,"bk":false,"bl":false,"la":45.48401829,"lo":-73.5634366,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":281,"s":"Marie-Anne / St-Hubert","n":"6926","st":2,"b":false,"su":true,"m":false,"lu":1479997410405,"lc":1487943442654,"bk":false,"bl":false,"la":45.524634,"lo":-73.578755,"da":2,"dx":17,"ba":0,"bx":0
+    },{
+      "id":282,"s":"\u00c3\u2030douard-Montpetit / Stirling","n":"6927","st":2,"b":false,"su":true,"m":false,"lu":1479575011866,"lc":1488294671801,"bk":false,"bl":false,"la":45.50723,"lo":-73.615085,"da":1,"dx":18,"ba":0,"bx":0
+    },{
+      "id":283,"s":"Louis-Colin / McKenna","n":"6928","st":2,"b":false,"su":false,"m":false,"lu":1478889060032,"lc":1488297715787,"bk":false,"bl":false,"la":45.500035,"lo":-73.618105,"da":27,"dx":0,"ba":0,"bx":0
+    },{
+      "id":284,"s":"Waverly / Van Horne","n":"6228","st":2,"b":false,"su":true,"m":false,"lu":1480080672057,"lc":1487955777235,"bk":false,"bl":false,"la":45.527363,"lo":-73.607723,"da":3,"dx":12,"ba":0,"bx":0
+    },{
+      "id":285,"s":"Hutchison / Van Horne","n":"6232","st":2,"b":false,"su":true,"m":false,"lu":1488209433093,"lc":1488209564208,"bk":false,"bl":false,"la":45.525021229212776,"lo":-73.61073732376099,"da":1,"dx":0,"ba":0,"bx":0
+    },{
+      "id":286,"s":"Bernard / Jeanne-Mance","n":"6233","st":2,"b":false,"su":true,"m":false,"lu":1480079824063,"lc":1487949825342,"bk":false,"bl":false,"la":45.52429587282263,"lo":-73.60484719276428,"da":1,"dx":26,"ba":0,"bx":0
+    },{
+      "id":287,"s":"Basile-Routhier / Chabanel","n":"6917","st":2,"b":false,"su":true,"m":false,"lu":1479395295320,"lc":1488201814590,"bk":false,"bl":false,"la":45.54993323340168,"lo":-73.64764451980591,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":288,"s":"10e Avenue / Rosemont","n":"6919","st":2,"b":false,"su":true,"m":false,"lu":1479916311645,"lc":1488204071372,"bk":false,"bl":false,"la":45.552649,"lo":-73.581185,"da":11,"dx":0,"ba":0,"bx":0
+    },{
+      "id":289,"s":"Boyer / Beaubien","n":"6910","st":2,"b":false,"su":false,"m":false,"lu":1478869211300,"lc":1488218673489,"bk":false,"bl":false,"la":45.537041,"lo":-73.602026,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":290,"s":"Ottawa / Peel","n":"6086","st":2,"b":false,"su":true,"m":false,"lu":1479549861240,"lc":1488217023123,"bk":false,"bl":false,"la":45.493962,"lo":-73.559644,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":291,"s":"Notre-Dame / de la Montagne","n":"6087","st":2,"b":false,"su":true,"m":false,"lu":1479478447715,"lc":1488210292384,"bk":false,"bl":false,"la":45.49302901258371,"lo":-73.56481790542603,"da":27,"dx":0,"ba":0,"bx":0
+    },{
+      "id":292,"s":"Guy / Notre-Dame","n":"6088","st":2,"b":false,"su":true,"m":false,"lu":1488284558509,"lc":1488286231880,"bk":false,"bl":false,"la":45.489951,"lo":-73.567091,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":293,"s":"des \u00c3\u2030cores / Beaubien","n":"6277","st":2,"b":false,"su":true,"m":false,"lu":1479403670702,"lc":1488222752091,"bk":false,"bl":false,"la":45.5475063952155,"lo":-73.5926753282547,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":294,"s":"Fairmount / St-Dominique","n":"6280","st":2,"b":false,"su":true,"m":false,"lu":1479842255502,"lc":1487859553422,"bk":false,"bl":false,"la":45.524611,"lo":-73.594059,"da":0,"dx":18,"ba":0,"bx":1
+    },{
+      "id":297,"s":"M\u00c3\u00a9tro Charlevoix (Centre / Charlevoix)","n":"10002","st":2,"b":false,"su":true,"m":false,"lu":1488286315601,"lc":1488286318963,"bk":false,"bl":false,"la":45.47822787309145,"lo":-73.56965124607086,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":301,"s":"des Seigneurs / Notre-Dame","n":"6401","st":2,"b":false,"su":true,"m":false,"lu":1488212909604,"lc":1488216479165,"bk":false,"bl":false,"la":45.487692701413145,"lo":-73.56903970241545,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":302,"s":"Square Sir-Georges-Etienne-Cartier / Ste-\u00c3\u2030milie","n":"6402","st":2,"b":false,"su":true,"m":false,"lu":1479486690192,"lc":1487955669886,"bk":false,"bl":false,"la":45.47266800851548,"lo":-73.585389778018,"da":22,"dx":0,"ba":0,"bx":1
+    },{
+      "id":303,"s":"Georges-Vanier / Notre-Dame","n":"6403","st":2,"b":false,"su":true,"m":false,"lu":1488289398431,"lc":1488292796166,"bk":false,"bl":false,"la":45.48503334730222,"lo":-73.5719458758831,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":304,"s":"Quesnel / Vinet","n":"6404","st":2,"b":false,"su":true,"m":false,"lu":1479567279154,"lc":1488286267435,"bk":false,"bl":false,"la":45.485889,"lo":-73.577514,"da":0,"dx":27,"ba":0,"bx":0
+    },{
+      "id":305,"s":"Duvernay / Charlevoix","n":"6405","st":2,"b":false,"su":true,"m":false,"lu":1488218369490,"lc":1488218392626,"bk":false,"bl":false,"la":45.48203995,"lo":-73.57486278,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":306,"s":"March\u00c3\u00a9 Atwater","n":"6406","st":2,"b":false,"su":true,"m":false,"lu":1479413730056,"lc":1488209532385,"bk":false,"bl":false,"la":45.48020822800015,"lo":-73.57759863138199,"da":0,"dx":21,"ba":0,"bx":0
+    },{
+      "id":307,"s":"M\u00c3\u00a9tro Lionel-Groulx (Lionel-Groulx / Charlevoix)","n":"6407","st":2,"b":false,"su":true,"m":false,"lu":1479412304239,"lc":1488287008075,"bk":false,"bl":false,"la":45.48392802,"lo":-73.57731164,"da":1,"dx":18,"ba":0,"bx":0
+    },{
+      "id":308,"s":"M\u00c3\u00a9tro George-Vanier (St-Antoine / Canning)","n":"6408","st":2,"b":false,"su":true,"m":false,"lu":1479559152634,"lc":1488216671885,"bk":false,"bl":false,"la":45.4891,"lo":-73.57656,"da":0,"dx":17,"ba":0,"bx":0
+    },{
+      "id":309,"s":"Laval / Rachel","n":"6307","st":2,"b":false,"su":true,"m":false,"lu":1488282053605,"lc":1488286093886,"bk":false,"bl":false,"la":45.520018,"lo":-73.579463,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":311,"s":"5e avenue / Verdun","n":"6309","st":2,"b":false,"su":true,"m":false,"lu":1479411941033,"lc":1488210817967,"bk":false,"bl":false,"la":45.456049,"lo":-73.571877,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":312,"s":"Darlington / de la C\u00c3\u00b4te-Ste-Catherine","n":"6310","st":2,"b":false,"su":true,"m":false,"lu":1488288139302,"lc":1488287650424,"bk":false,"bl":false,"la":45.505403247020155,"lo":-73.62116575241089,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":313,"s":"Palm / St-Remi","n":"6313","st":2,"b":false,"su":true,"m":false,"lu":1479499000098,"lc":1488292945127,"bk":false,"bl":false,"la":45.470303,"lo":-73.589848,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":314,"s":"Kent / de la C\u00c3\u00b4te-des-Neiges","n":"6312","st":2,"b":false,"su":false,"m":false,"lu":1478630870931,"lc":1488288212932,"bk":false,"bl":false,"la":45.501302,"lo":-73.633161,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":315,"s":"Drolet / St-Zotique","n":"6311","st":2,"b":false,"su":true,"m":false,"lu":1479487492978,"lc":1488204086304,"bk":false,"bl":false,"la":45.534795,"lo":-73.609546,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":316,"s":"de Lanaudi\u00c3\u00a8re / Marie-Anne","n":"6314","st":2,"b":false,"su":true,"m":false,"lu":1479994931372,"lc":1488295992256,"bk":false,"bl":false,"la":45.529219,"lo":-73.574777,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":317,"s":"Lacombe / de la C\u00c3\u00b4te-des-Neiges","n":"6315","st":2,"b":false,"su":true,"m":false,"lu":1479577749315,"lc":1487952688659,"bk":false,"bl":false,"la":45.4968505432976,"lo":-73.62331956624985,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":318,"s":"Parc Jean-Brillant (Swail / Decelles)","n":"6316","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1488209490191,"bk":false,"bl":false,"la":45.497011,"lo":-73.618575,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":319,"s":"Bourbonni\u00c3\u00a8re / du Mont-Royal","n":"6383","st":2,"b":false,"su":true,"m":false,"lu":1487865423628,"lc":1487865428617,"bk":false,"bl":false,"la":45.55357073967113,"lo":-73.56049418449402,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":320,"s":"Bordeaux /Gilford","n":"6385","st":2,"b":false,"su":true,"m":false,"lu":1479981917996,"lc":1487869783720,"bk":false,"bl":false,"la":45.536178,"lo":-73.57641,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":321,"s":"M\u00c3\u00a9tro Pr\u00c3\u00a9fontaine (Moreau / Hochelaga)","n":"6386","st":2,"b":false,"su":true,"m":false,"lu":1479895530858,"lc":1487865149780,"bk":false,"bl":false,"la":45.5414350841351,"lo":-73.55431437492369,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":322,"s":"M\u00c3\u00a9tro Joliette  (Joliette / Hochelaga)","n":"6387","st":2,"b":false,"su":true,"m":false,"lu":1479895401877,"lc":1488223915656,"bk":false,"bl":false,"la":45.547179,"lo":-73.551739,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":323,"s":"d'Orl\u00c3\u00a9ans / Hochelaga","n":"6388","st":2,"b":false,"su":true,"m":false,"lu":1479895409838,"lc":1487868153806,"bk":false,"bl":false,"la":45.550668,"lo":-73.549502,"da":11,"dx":0,"ba":0,"bx":0
+    },{
+      "id":324,"s":"Boyer / Jean-Talon","n":"6389","st":2,"b":false,"su":false,"m":false,"lu":1478879523957,"lc":1487955614391,"bk":false,"bl":false,"la":45.541484,"lo":-73.612441,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":325,"s":"Aylwin / Ontario","n":"6391","st":2,"b":false,"su":true,"m":false,"lu":1479895470007,"lc":1488224609970,"bk":false,"bl":false,"la":45.544136,"lo":-73.545609,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":327,"s":"D\u00c3\u00a9z\u00c3\u00a9ry / Ontario","n":"6393","st":2,"b":false,"su":true,"m":false,"lu":1479915565677,"lc":1487951850262,"bk":false,"bl":false,"la":45.540943945201164,"lo":-73.54714214801788,"da":35,"dx":0,"ba":0,"bx":0
+    },{
+      "id":328,"s":"Valois / Ontario","n":"6394","st":2,"b":false,"su":true,"m":false,"lu":1488215801804,"lc":1488218188156,"bk":false,"bl":false,"la":45.54730353,"lo":-73.5438269,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":329,"s":"Pierre-de-Coubertin / Aird","n":"6395","st":2,"b":false,"su":true,"m":false,"lu":1480068420940,"lc":1488202564072,"bk":false,"bl":false,"la":45.55896,"lo":-73.548687,"da":41,"dx":0,"ba":0,"bx":0
+    },{
+      "id":330,"s":"March\u00c3\u00a9 Maisonneuve","n":"6397","st":2,"b":false,"su":true,"m":false,"lu":1479809040731,"lc":1487961037926,"bk":false,"bl":false,"la":45.55319389744088,"lo":-73.5398143529892,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":331,"s":"Desjardins / Ontario","n":"6398","st":2,"b":false,"su":false,"m":false,"lu":1479228020150,"lc":1488217021418,"bk":false,"bl":false,"la":45.551119,"lo":-73.540764,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":332,"s":"Guizot / St-Laurent","n":"6323","st":2,"b":false,"su":true,"m":false,"lu":1488214080360,"lc":1488218072993,"bk":false,"bl":false,"la":45.53963159810423,"lo":-73.63444805145264,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":333,"s":"Faillon / St-Denis","n":"6327","st":2,"b":false,"su":true,"m":false,"lu":1479895361859,"lc":1488205078653,"bk":false,"bl":false,"la":45.53985704,"lo":-73.62038255,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":334,"s":"Gounod / St-Denis","n":"6329","st":2,"b":false,"su":true,"m":false,"lu":1479395401378,"lc":1488209477765,"bk":false,"bl":false,"la":45.54176571696572,"lo":-73.62612783908844,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":335,"s":"de Gasp\u00c3\u00a9 / Jarry","n":"6330","st":2,"b":false,"su":true,"m":false,"lu":1479396607626,"lc":1488217432151,"bk":false,"bl":false,"la":45.540627,"lo":-73.630089,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":336,"s":"Guizot / St-Denis","n":"6331","st":2,"b":false,"su":true,"m":false,"lu":1479402378524,"lc":1488219199247,"bk":false,"bl":false,"la":45.543376,"lo":-73.632267,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":337,"s":"de Gasp\u00c3\u00a9 / de Li\u00c3\u00a8ge","n":"6332","st":2,"b":false,"su":true,"m":false,"lu":1479398004277,"lc":1488207902171,"bk":false,"bl":false,"la":45.542579,"lo":-73.636557,"da":7,"dx":8,"ba":0,"bx":0
+    },{
+      "id":338,"s":"Leman / de Chateaubriand","n":"6333","st":2,"b":false,"su":true,"m":false,"lu":1479409285432,"lc":1488217015055,"bk":false,"bl":false,"la":45.547218,"lo":-73.631103,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":339,"s":"Lajeunesse / Jarry","n":"6334","st":2,"b":false,"su":true,"m":false,"lu":1479410422405,"lc":1488287649988,"bk":false,"bl":false,"la":45.543583,"lo":-73.6284,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":340,"s":"du Rosaire / St-Hubert","n":"6335","st":2,"b":false,"su":true,"m":false,"lu":1479406065244,"lc":1488291425465,"bk":false,"bl":false,"la":45.54467,"lo":-73.621581,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":341,"s":"Faillon / St-Hubert","n":"6336","st":2,"b":false,"su":true,"m":false,"lu":1479916782085,"lc":1487954809844,"bk":false,"bl":false,"la":45.54279435304991,"lo":-73.6181053519249,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":342,"s":"Boyer / Jarry","n":"6338","st":2,"b":false,"su":true,"m":false,"lu":1479407867385,"lc":1488290621779,"bk":false,"bl":false,"la":45.547283,"lo":-73.625377,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":343,"s":"Harvard / Monkland","n":"6339","st":2,"b":false,"su":true,"m":false,"lu":1488293754677,"lc":1488293757948,"bk":false,"bl":false,"la":45.4743,"lo":-73.6237,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":344,"s":"De La Roche / Everett","n":"6340","st":2,"b":false,"su":true,"m":false,"lu":1479916009386,"lc":1488201233836,"bk":false,"bl":false,"la":45.544867,"lo":-73.614841,"da":3,"dx":16,"ba":0,"bx":0
+    },{
+      "id":345,"s":"Regina / Verdun","n":"6341","st":2,"b":false,"su":true,"m":false,"lu":1479408572824,"lc":1488287650601,"bk":false,"bl":false,"la":45.467369,"lo":-73.570769,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":346,"s":"Marquette / Villeray","n":"6343","st":2,"b":false,"su":true,"m":false,"lu":1479389055098,"lc":1488197978605,"bk":false,"bl":false,"la":45.55073714740538,"lo":-73.61522197723389,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":347,"s":"Louis-H\u00c3\u00a9mon / Villeray","n":"6345","st":2,"b":false,"su":true,"m":false,"lu":1479390424193,"lc":1488294083336,"bk":false,"bl":false,"la":45.554931,"lo":-73.610711,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":348,"s":"Valois / Ste-Catherine","n":"6346","st":2,"b":false,"su":true,"m":false,"lu":1480068321655,"lc":1488220925733,"bk":false,"bl":false,"la":45.54526729987328,"lo":-73.53715896606445,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":349,"s":"M\u00c3\u00a9tro St-Michel (Shaughnessy / St-Michel)","n":"6347","st":2,"b":false,"su":true,"m":false,"lu":1479402519209,"lc":1488202579075,"bk":false,"bl":false,"la":45.559199,"lo":-73.599658,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":350,"s":"Ryde / Charlevoix","n":"6349","st":2,"b":false,"su":true,"m":false,"lu":1479482655714,"lc":1488288185021,"bk":false,"bl":false,"la":45.4757434,"lo":-73.5646007,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":351,"s":"Island / Centre","n":"6350","st":2,"b":false,"su":true,"m":false,"lu":1479486249529,"lc":1488210186727,"bk":false,"bl":false,"la":45.48149081388884,"lo":-73.56475353240967,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":355,"s":"St-Dominique / Villeray","n":"6322","st":2,"b":false,"su":true,"m":false,"lu":1479895357667,"lc":1488203270454,"bk":false,"bl":false,"la":45.537813,"lo":-73.624872,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":356,"s":"de Li\u00c3\u00a8ge / Lajeunesse","n":"6324","st":2,"b":false,"su":true,"m":false,"lu":1479401018165,"lc":1488287155309,"bk":false,"bl":false,"la":45.54554155627702,"lo":-73.6347484588623,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":357,"s":"Drolet / Villeray","n":"6328","st":2,"b":false,"su":true,"m":false,"lu":1479895404683,"lc":1487859434190,"bk":false,"bl":false,"la":45.54015386355122,"lo":-73.62353146076202,"da":11,"dx":0,"ba":0,"bx":0
+    },{
+      "id":358,"s":"Marcil / Sherbrooke","n":"6354","st":2,"b":false,"su":true,"m":false,"lu":1488283150061,"lc":1488288063129,"bk":false,"bl":false,"la":45.471743,"lo":-73.613924,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":359,"s":"Ontario / Sicard","n":"6355","st":2,"b":false,"su":true,"m":false,"lu":1479895338686,"lc":1488199882113,"bk":false,"bl":false,"la":45.5566,"lo":-73.5373,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":360,"s":"Monkland / Girouard","n":"6356","st":2,"b":false,"su":true,"m":false,"lu":1479817663349,"lc":1488292023359,"bk":false,"bl":false,"la":45.4771,"lo":-73.6212,"da":14,"dx":0,"ba":0,"bx":1
+    },{
+      "id":361,"s":"12e avenue / St-Zotique","n":"6357","st":2,"b":false,"su":true,"m":false,"lu":1479409173258,"lc":1488221701941,"bk":false,"bl":false,"la":45.556905,"lo":-73.58925,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":362,"s":"1\u00c3\u00a8re  avenue /St-Zotique","n":"6358","st":2,"b":false,"su":true,"m":false,"lu":1488212382306,"lc":1488215791448,"bk":false,"bl":false,"la":45.551970494223056,"lo":-73.59377503395079,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":363,"s":"Parc Plage","n":"6359","st":2,"b":false,"su":false,"m":false,"lu":1478098233844,"lc":1488217458144,"bk":false,"bl":false,"la":45.49885738642923,"lo":-73.52355480194092,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":364,"s":"8e avenue / Beaubien","n":"6360","st":2,"b":false,"su":true,"m":false,"lu":1488287649960,"lc":1488287650165,"bk":false,"bl":false,"la":45.553215,"lo":-73.58752,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":365,"s":"1\u00c3\u00a8re avenue / Beaubien","n":"6361","st":2,"b":false,"su":false,"m":false,"lu":1476814306172,"lc":1488215602391,"bk":false,"bl":false,"la":45.550476,"lo":-73.590446,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":366,"s":"1\u00c3\u00a8re avenue / Rosemont","n":"6362","st":2,"b":false,"su":false,"m":false,"lu":1476984732709,"lc":1487950962148,"bk":false,"bl":false,"la":45.547997,"lo":-73.58523,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":367,"s":"C\u00c3\u00b4te St-Antoine / Royal","n":"6363","st":2,"b":false,"su":true,"m":false,"lu":1488208749363,"lc":1488208763383,"bk":false,"bl":false,"la":45.4688,"lo":-73.6198,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":368,"s":"Chambly / Rachel","n":"6364","st":2,"b":false,"su":true,"m":false,"lu":1480088735462,"lc":1488284203353,"bk":false,"bl":false,"la":45.54991069359101,"lo":-73.55826258659361,"da":0,"dx":19,"ba":0,"bx":0
+    },{
+      "id":370,"s":"Wilderton  / Van Horne","n":"6366","st":2,"b":false,"su":true,"m":false,"lu":1479575608938,"lc":1488287136679,"bk":false,"bl":false,"la":45.510042,"lo":-73.624835,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":371,"s":"3e avenue / Dandurand","n":"6367","st":2,"b":false,"su":true,"m":false,"lu":1479981897715,"lc":1487944828606,"bk":false,"bl":false,"la":45.547362,"lo":-73.579221,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":372,"s":"10e avenue / Masson","n":"6368","st":2,"b":false,"su":true,"m":false,"lu":1488200540427,"lc":1488202617287,"bk":false,"bl":false,"la":45.55031640880025,"lo":-73.57335805892944,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":373,"s":"West Broadway / Sherbrooke","n":"6369","st":2,"b":false,"su":true,"m":false,"lu":1479486896768,"lc":1488217713786,"bk":false,"bl":false,"la":45.45635829051657,"lo":-73.64013027457986,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":374,"s":"d'Orl\u00c3\u00a9ans / Masson","n":"6370","st":2,"b":false,"su":true,"m":false,"lu":1479981707023,"lc":1487868113450,"bk":false,"bl":false,"la":45.557192,"lo":-73.569847,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":375,"s":"4e avenue / Masson","n":"6371","st":2,"b":false,"su":true,"m":false,"lu":1488288826241,"lc":1488289302067,"bk":false,"bl":false,"la":45.546978,"lo":-73.575515,"da":1,"dx":0,"ba":0,"bx":0
+    },{
+      "id":376,"s":"1\u00c3\u00a8re avenue / Masson","n":"6372","st":2,"b":false,"su":true,"m":false,"lu":1480002464673,"lc":1487942342339,"bk":false,"bl":false,"la":45.5451997,"lo":-73.57645065,"da":3,"dx":12,"ba":0,"bx":0
+    },{
+      "id":377,"s":"7e avenue / St-Joseph","n":"6373","st":2,"b":false,"su":true,"m":false,"lu":1479914424863,"lc":1488204976455,"bk":false,"bl":false,"la":45.547226645250745,"lo":-73.56986984610558,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":378,"s":"Laurier / 15e avenue","n":"6374","st":2,"b":false,"su":true,"m":false,"lu":1488295001413,"lc":1488295822160,"bk":false,"bl":false,"la":45.553408,"lo":-73.569531,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":379,"s":"M\u00c3\u00a9tro Place St-Henri (St-Ferdinand / St-Jacques)","n":"6375","st":2,"b":false,"su":true,"m":false,"lu":1479496621421,"lc":1488290708953,"bk":false,"bl":false,"la":45.477249,"lo":-73.587238,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":380,"s":"16e avenue / St-Joseph","n":"6376","st":2,"b":false,"su":true,"m":false,"lu":1479910089073,"lc":1487944748437,"bk":false,"bl":false,"la":45.55292309731551,"lo":-73.56575198471546,"da":14,"dx":0,"ba":0,"bx":1
+    },{
+      "id":381,"s":"Grand Trunk / Hibernia","n":"6377","st":2,"b":false,"su":true,"m":false,"lu":1479488155119,"lc":1488291963187,"bk":false,"bl":false,"la":45.47968,"lo":-73.56385,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":383,"s":"Bannantyne / de l'\u00c3\u2030glise","n":"6379","st":2,"b":false,"su":true,"m":false,"lu":1479410491659,"lc":1488210858789,"bk":false,"bl":false,"la":45.463257,"lo":-73.575621,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":384,"s":"Parc J.-Arthur-Champagne (Chambly / du Mont-Royal)","n":"6380","st":2,"b":false,"su":true,"m":false,"lu":1479895531059,"lc":1487962331726,"bk":false,"bl":false,"la":45.551584,"lo":-73.561916,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":385,"s":"Omer-Lavall\u00c3\u00a9e / Midway","n":"6381","st":2,"b":false,"su":true,"m":false,"lu":1479920163850,"lc":1487949050560,"bk":false,"bl":false,"la":45.5457759528664,"lo":-73.56217458844185,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":387,"s":"Darling / Sherbrooke","n":"6384","st":2,"b":false,"su":true,"m":false,"lu":1479895436559,"lc":1488210871516,"bk":false,"bl":false,"la":45.545425,"lo":-73.556527,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":388,"s":"M\u00c3\u00a9tro Pie-IX (Pierre-de-Coubertin / Pie-IX)","n":"6396","st":2,"b":false,"su":true,"m":false,"lu":1480086052923,"lc":1488204107563,"bk":false,"bl":false,"la":45.553879,"lo":-73.551761,"da":0,"dx":33,"ba":0,"bx":0
+    },{
+      "id":389,"s":"Parc Outremont (Bloomfield / Elmwood)","n":"6301","st":2,"b":false,"su":true,"m":false,"lu":1479657780430,"lc":1488210200524,"bk":false,"bl":false,"la":45.518215,"lo":-73.603251,"da":3,"dx":12,"ba":0,"bx":0
+    },{
+      "id":390,"s":"Stuart / de la C\u00c3\u00b4te-Ste-Catherine","n":"6302","st":2,"b":false,"su":true,"m":false,"lu":1479569447635,"lc":1488293969982,"bk":false,"bl":false,"la":45.51538412515814,"lo":-73.60640823841095,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":391,"s":"Dunlop / Van Horne","n":"6303","st":2,"b":false,"su":true,"m":false,"lu":1479582798540,"lc":1488220829761,"bk":false,"bl":false,"la":45.514905,"lo":-73.619682,"da":10,"dx":1,"ba":0,"bx":0
+    },{
+      "id":392,"s":"Rockland / Lajoie","n":"6304","st":2,"b":false,"su":true,"m":false,"lu":1479570840873,"lc":1488210211361,"bk":false,"bl":false,"la":45.515617,"lo":-73.614991,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":393,"s":"Davaar / de la C\u00c3\u00b4te-Ste-Catherine","n":"6305","st":2,"b":false,"su":true,"m":false,"lu":1479572711690,"lc":1488217868022,"bk":false,"bl":false,"la":45.514379,"lo":-73.610871,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":394,"s":"du Mont-Royal / Vincent-D'Indy","n":"6306","st":2,"b":false,"su":true,"m":false,"lu":1488211056858,"lc":1488210856795,"bk":false,"bl":false,"la":45.510086,"lo":-73.611429,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":396,"s":"Gary-Carter / St-Laurent","n":"6321","st":2,"b":false,"su":true,"m":false,"lu":1479895332446,"lc":1488296738914,"bk":false,"bl":false,"la":45.536123205883136,"lo":-73.62244516611099,"da":11,"dx":0,"ba":0,"bx":0
+    },{
+      "id":397,"s":"St-Dominique / Jean-Talon","n":"6344","st":2,"b":false,"su":true,"m":false,"lu":1479842093695,"lc":1487859505418,"bk":false,"bl":false,"la":45.535189,"lo":-73.617459,"da":2,"dx":13,"ba":0,"bx":0
+    },{
+      "id":399,"s":"Lionel-Groulx / George-Vanier","n":"6409","st":2,"b":false,"su":true,"m":false,"lu":1479498356994,"lc":1488295972785,"bk":false,"bl":false,"la":45.48627862584162,"lo":-73.57359945774078,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":401,"s":"de l'H\u00c3\u00b4tel-de-Ville / Sherbrooke","n":"6021","st":2,"b":false,"su":true,"m":false,"lu":1479664342777,"lc":1488291357539,"bk":false,"bl":false,"la":45.51453083866944,"lo":-73.56847107410431,"da":0,"dx":22,"ba":0,"bx":1
+    },{
+      "id":403,"s":"Mansfield / Ste-Catherine","n":"6066","st":2,"b":false,"su":true,"m":false,"lu":1479300510447,"lc":1488205087080,"bk":false,"bl":false,"la":45.5014018,"lo":-73.5718136,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":404,"s":"Prince-Arthur / St-Urbain","n":"6218","st":2,"b":false,"su":true,"m":false,"lu":1479648417073,"lc":1488283985967,"bk":false,"bl":false,"la":45.5126137,"lo":-73.57372552,"da":27,"dx":0,"ba":0,"bx":0
+    },{
+      "id":406,"s":"M\u00c3\u00a9tro Jean-Drapeau","n":"6501","st":2,"b":false,"su":true,"m":false,"lu":1487958981218,"lc":1487961116420,"bk":false,"bl":false,"la":45.5120135,"lo":-73.53254691,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":407,"s":"Casino de Montr\u00c3\u00a9al","n":"6502","st":2,"b":false,"su":true,"m":false,"lu":1487961592358,"lc":1487963040078,"bk":false,"bl":false,"la":45.5063732,"lo":-73.52457672,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":408,"s":"M\u00c3\u00a9tro Parc  (Ogilvy / Hutchison)","n":"6503","st":2,"b":false,"su":true,"m":false,"lu":1479901792577,"lc":1488284476728,"bk":false,"bl":false,"la":45.53035130173597,"lo":-73.6243924498558,"da":25,"dx":0,"ba":0,"bx":0
+    },{
+      "id":409,"s":"La Ronde","n":"6504","st":2,"b":false,"su":false,"m":false,"lu":1478628386311,"lc":1488211661688,"bk":false,"bl":false,"la":45.521769,"lo":-73.534859,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":413,"s":"Wilson / Sherbrooke","n":"6415","st":2,"b":false,"su":true,"m":false,"lu":1479557703612,"lc":1488297710006,"bk":false,"bl":false,"la":45.4703,"lo":-73.6162,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":414,"s":"Desjardins / Hochelaga","n":"6417","st":2,"b":false,"su":false,"m":false,"lu":1479204041480,"lc":1488222993535,"bk":false,"bl":false,"la":45.55325,"lo":-73.54822,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":415,"s":"M\u00c3\u00a9tro Vend\u00c3\u00b4me (Maisonneuve / Vend\u00c3\u00b4me)","n":"6418","st":2,"b":false,"su":true,"m":false,"lu":1479914244045,"lc":1488221708550,"bk":false,"bl":false,"la":45.47422369503188,"lo":-73.60372066497803,"da":18,"dx":0,"ba":0,"bx":1
+    },{
+      "id":416,"s":"Pr\u00c3\u00a9sident-Kennedy / McGill College","n":"6424","st":2,"b":false,"su":true,"m":false,"lu":1479322145280,"lc":1487858741115,"bk":false,"bl":false,"la":45.503063,"lo":-73.573986,"da":22,"dx":0,"ba":0,"bx":1
+    },{
+      "id":417,"s":"Cartier / Rosemont","n":"6421","st":2,"b":false,"su":true,"m":false,"lu":1480068246454,"lc":1487954744714,"bk":false,"bl":false,"la":45.541198,"lo":-73.590943,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":418,"s":"Notre-Dame-de-Gr\u00c3\u00a2ce / D\u00c3\u00a9carie","n":"6416","st":2,"b":false,"su":true,"m":false,"lu":1479559070642,"lc":1488298067855,"bk":false,"bl":false,"la":45.477313,"lo":-73.615327,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":419,"s":"Beaucourt / de la C\u00c3\u00b4te-Ste-Catherine","n":"6419","st":2,"b":false,"su":true,"m":false,"lu":1479572415409,"lc":1488287650233,"bk":false,"bl":false,"la":45.491513,"lo":-73.633649,"da":0,"dx":19,"ba":0,"bx":0
+    },{
+      "id":421,"s":"H\u00c3\u00b4pital g\u00c3\u00a9n\u00c3\u00a9ral juif","n":"6423","st":2,"b":false,"su":true,"m":false,"lu":1479573601741,"lc":1488219199194,"bk":false,"bl":false,"la":45.496302,"lo":-73.629822,"da":0,"dx":19,"ba":0,"bx":0
+    },{
+      "id":422,"s":"Trans Island / Queen-Mary","n":"6420","st":2,"b":false,"su":true,"m":false,"lu":1479569550969,"lc":1488287650188,"bk":false,"bl":false,"la":45.484489,"lo":-73.628834,"da":2,"dx":17,"ba":0,"bx":0
+    },{
+      "id":423,"s":"Fleury / Lajeunesse","n":"6422","st":2,"b":false,"su":true,"m":false,"lu":1479398610917,"lc":1487858994103,"bk":false,"bl":false,"la":45.5536,"lo":-73.6616,"da":0,"dx":15,"ba":0,"bx":0
+    },{
+      "id":424,"s":"Foucher / St-Ars\u00c3\u00a8ne","n":"6410","st":2,"b":false,"su":true,"m":false,"lu":1479397383126,"lc":1488224321974,"bk":false,"bl":false,"la":45.547990682360535,"lo":-73.63886967301369,"da":0,"dx":19,"ba":0,"bx":0
+    },{
+      "id":425,"s":"Complexe sportif Claude-Robillard (\u00c3\u2030mile-Journault)","n":"6412","st":2,"b":false,"su":true,"m":false,"lu":1479396347036,"lc":1488289918743,"bk":false,"bl":false,"la":45.553262,"lo":-73.638615,"da":1,"dx":22,"ba":0,"bx":0
+    },{
+      "id":427,"s":"Agn\u00c3\u00a8s / Guay","n":"6414","st":2,"b":false,"su":true,"m":false,"lu":1479488551406,"lc":1488220169778,"bk":false,"bl":false,"la":45.479582,"lo":-73.585989,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":428,"s":"Ross / de l'\u00c3\u2030glise","n":"6425","st":2,"b":false,"su":true,"m":false,"lu":1479472257067,"lc":1488208838528,"bk":false,"bl":false,"la":45.462742,"lo":-73.565845,"da":4,"dx":15,"ba":0,"bx":0
+    },{
+      "id":429,"s":"Willibrord / Verdun","n":"6426","st":2,"b":false,"su":true,"m":false,"lu":1488213105347,"lc":1488216517888,"bk":false,"bl":false,"la":45.459707,"lo":-73.571438,"da":1,"dx":0,"ba":0,"bx":0
+    },{
+      "id":430,"s":"Rushbrooke /  Caisse","n":"6427","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487955711091,"bk":false,"bl":false,"la":45.47069642604657,"lo":-73.56542240828276,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":431,"s":"Place du Commerce","n":"6429","st":2,"b":false,"su":true,"m":false,"lu":1479490953694,"lc":1488292819768,"bk":false,"bl":false,"la":45.46714,"lo":-73.54259,"da":33,"dx":0,"ba":0,"bx":0
+    },{
+      "id":432,"s":"Clark / Prince-Arthur","n":"6411","st":2,"b":false,"su":true,"m":false,"lu":1479650474826,"lc":1488205068081,"bk":false,"bl":false,"la":45.513338,"lo":-73.57295,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":433,"s":"Berlioz / Boul de l'Ile des Soeurs","n":"6428","st":2,"b":false,"su":true,"m":false,"lu":1479494207318,"lc":1488219199405,"bk":false,"bl":false,"la":45.459593,"lo":-73.544377,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":437,"s":"Resther / St-Joseph","n":"6281","st":2,"b":false,"su":true,"m":false,"lu":1479846789409,"lc":1488296571415,"bk":false,"bl":false,"la":45.5277271,"lo":-73.58628362,"da":0,"dx":15,"ba":0,"bx":0
+    },{
+      "id":438,"s":"de Maisonneuve / Greene","n":"6432","st":2,"b":false,"su":true,"m":false,"lu":1488293632337,"lc":1488295385524,"bk":false,"bl":false,"la":45.48697062,"lo":-73.58929306,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":439,"s":"Hillside / Ste-Catherine","n":"6433","st":2,"b":false,"su":true,"m":false,"lu":1479549912944,"lc":1488294587183,"bk":false,"bl":false,"la":45.4829,"lo":-73.591,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":440,"s":"Victoria / de Maisonneuve","n":"6434","st":2,"b":false,"su":true,"m":false,"lu":1488300551862,"lc":1488300608113,"bk":false,"bl":false,"la":45.47742856483265,"lo":-73.60016942024231,"da":2,"dx":0,"ba":0,"bx":0
+    },{
+      "id":441,"s":"Victoria Hall","n":"6435","st":2,"b":false,"su":true,"m":false,"lu":1479549723497,"lc":1487862972492,"bk":false,"bl":false,"la":45.4816,"lo":-73.6,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":442,"s":"C\u00c3\u00b4te St-Antoine / Clarke","n":"6436","st":2,"b":false,"su":true,"m":false,"lu":1488219698044,"lc":1488220290013,"bk":false,"bl":false,"la":45.48645209646392,"lo":-73.59523415565491,"da":1,"dx":0,"ba":0,"bx":0
+    },{
+      "id":443,"s":"St-Charles / Ch\u00c3\u00a2teauguay","n":"5002","st":2,"b":false,"su":true,"m":false,"lu":1479835917390,"lc":1488289241916,"bk":false,"bl":false,"la":45.5332,"lo":-73.5156,"da":0,"dx":19,"ba":0,"bx":0
+    },{
+      "id":444,"s":"Place Longueuil","n":"5003","st":2,"b":false,"su":true,"m":false,"lu":1487937825404,"lc":1487944785386,"bk":false,"bl":false,"la":45.5294,"lo":-73.5178,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":445,"s":"St-Charles / Charlotte","n":"5004","st":2,"b":false,"su":true,"m":false,"lu":1479809143503,"lc":1488296935047,"bk":false,"bl":false,"la":45.539824,"lo":-73.508752,"da":11,"dx":0,"ba":0,"bx":0
+    },{
+      "id":446,"s":"St-Charles / St-Sylvestre","n":"5005","st":2,"b":false,"su":true,"m":false,"lu":1487959589137,"lc":1487960666590,"bk":false,"bl":false,"la":45.536408,"lo":-73.512776,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":447,"s":"Coll\u00c3\u00a8ge \u00c3\u2030douard-Montpetit","n":"5006","st":2,"b":false,"su":true,"m":false,"lu":1479833580213,"lc":1487867981259,"bk":false,"bl":false,"la":45.53722603812578,"lo":-73.49506705999374,"da":2,"dx":25,"ba":0,"bx":0
+    },{
+      "id":448,"s":"M\u00c3\u00a9tro Longueuil - Universit\u00c3\u00a9 de Sherbrooke","n":"5007","st":2,"b":false,"su":true,"m":false,"lu":1487944982370,"lc":1487945174753,"bk":false,"bl":false,"la":45.523854,"lo":-73.519677,"da":1,"dx":0,"ba":0,"bx":0
+    },{
+      "id":452,"s":"St-Andr\u00c3\u00a9 / St-Gr\u00c3\u00a9goire","n":"6929","st":2,"b":false,"su":true,"m":false,"lu":1479844672852,"lc":1488203271663,"bk":false,"bl":false,"la":45.53133,"lo":-73.59155,"da":0,"dx":15,"ba":0,"bx":0
+    },{
+      "id":453,"s":"Paul Boutet / Jarry","n":"6930","st":2,"b":false,"su":true,"m":false,"lu":1479399051243,"lc":1488289873572,"bk":false,"bl":false,"la":45.55917755022557,"lo":-73.61413031816483,"da":27,"dx":0,"ba":0,"bx":0
+    },{
+      "id":454,"s":"de la Salle / Ste-Catherine","n":"6700","st":2,"b":false,"su":true,"m":false,"lu":1488285468087,"lc":1488287695062,"bk":false,"bl":false,"la":45.550056,"lo":-73.534576,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":455,"s":"Marseille / Viau","n":"6701","st":2,"b":false,"su":true,"m":false,"lu":1479809036319,"lc":1487943381449,"bk":false,"bl":false,"la":45.5639212,"lo":-73.5489124,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":456,"s":"Chauveau / de l'Assomption","n":"6702","st":2,"b":false,"su":true,"m":false,"lu":1480068268647,"lc":1487953884551,"bk":false,"bl":false,"la":45.569789,"lo":-73.548081,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":457,"s":"Jardin Botanique (Pie-IX / Sherbrooke)","n":"6703","st":2,"b":false,"su":true,"m":false,"lu":1488200288057,"lc":1488202632226,"bk":false,"bl":false,"la":45.555205239939916,"lo":-73.55582308082374,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":458,"s":"19e avenue / St-Zotique","n":"6704","st":2,"b":false,"su":true,"m":false,"lu":1479482042405,"lc":1488220362056,"bk":false,"bl":false,"la":45.561594,"lo":-73.585643,"da":14,"dx":0,"ba":0,"bx":1
+    },{
+      "id":459,"s":"5e avenue / Bannantyne","n":"6705","st":2,"b":false,"su":true,"m":false,"lu":1488222463953,"lc":1488223927192,"bk":false,"bl":false,"la":45.456365,"lo":-73.57614,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":460,"s":"Beatty / Verdun","n":"6706","st":2,"b":false,"su":true,"m":false,"lu":1479493248325,"lc":1488198006701,"bk":false,"bl":false,"la":45.450837,"lo":-73.572446,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":461,"s":"Drake /  Holy Cross","n":"6707","st":2,"b":false,"su":true,"m":false,"lu":1488208408920,"lc":1488208706289,"bk":false,"bl":false,"la":45.456026,"lo":-73.58229,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":462,"s":"de la Gaucheti\u00c3\u00a8re / de Bleury","n":"6708","st":2,"b":false,"su":true,"m":false,"lu":1479321497962,"lc":1488287649895,"bk":false,"bl":false,"la":45.504561,"lo":-73.56279,"da":31,"dx":0,"ba":0,"bx":0
+    },{
+      "id":463,"s":"Le Caron / Marc-Sauvalle ","n":"6709","st":2,"b":false,"su":true,"m":false,"lu":1479489832631,"lc":1488208768381,"bk":false,"bl":false,"la":45.461685,"lo":-73.584039,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":464,"s":"Georges-Baril / Fleury","n":"6710","st":2,"b":false,"su":true,"m":false,"lu":1479400913647,"lc":1488224200525,"bk":false,"bl":false,"la":45.558457,"lo":-73.65884,"da":3,"dx":12,"ba":0,"bx":0
+    },{
+      "id":465,"s":"Alexandra / Waverly","n":"6711","st":2,"b":false,"su":true,"m":false,"lu":1479844110742,"lc":1487948403183,"bk":false,"bl":false,"la":45.531938,"lo":-73.617842,"da":0,"dx":19,"ba":0,"bx":0
+    },{
+      "id":466,"s":"LaSalle / Crawford","n":"6712","st":2,"b":false,"su":true,"m":false,"lu":1488214182073,"lc":1488217037916,"bk":false,"bl":false,"la":45.43791380065227,"lo":-73.58274042606354,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":467,"s":"30e avenue / St-Zotique","n":"6713","st":2,"b":false,"su":false,"m":false,"lu":1474655479962,"lc":1487865227587,"bk":false,"bl":false,"la":45.56822507,"lo":-73.57943594,"da":7,"dx":0,"ba":0,"bx":0
+    },{
+      "id":468,"s":"LaSalle / S\u00c3\u00a9n\u00c3\u00a9cal","n":"6714","st":2,"b":false,"su":true,"m":false,"lu":1488213332666,"lc":1488216953534,"bk":false,"bl":false,"la":45.43443353453236,"lo":-73.58669400215149,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":469,"s":"Natatorium (LaSalle / Rolland)","n":"6715","st":2,"b":false,"su":true,"m":false,"lu":1487858308392,"lc":1487858752747,"bk":false,"bl":false,"la":45.444433,"lo":-73.575788,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":470,"s":"Francis / Fleury","n":"6716","st":2,"b":false,"su":true,"m":false,"lu":1488219801535,"lc":1488220321633,"bk":false,"bl":false,"la":45.563947,"lo":-73.655573,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":471,"s":"Kent / Victoria","n":"6717","st":2,"b":false,"su":false,"m":false,"lu":1476614951225,"lc":1487954897207,"bk":false,"bl":false,"la":45.494805,"lo":-73.638772,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":472,"s":"Grand Boulevard / Sherbrooke","n":"6718","st":2,"b":false,"su":true,"m":false,"lu":1479549881984,"lc":1488220290205,"bk":false,"bl":false,"la":45.466569,"lo":-73.623295,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":473,"s":"Park Row O / Sherbrooke","n":"6719","st":2,"b":false,"su":true,"m":false,"lu":1479549635148,"lc":1488204958516,"bk":false,"bl":false,"la":45.46072936353252,"lo":-73.63407254219055,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":474,"s":"Ontario / Viau","n":"6720","st":2,"b":false,"su":true,"m":false,"lu":1480068118899,"lc":1487963100524,"bk":false,"bl":false,"la":45.5594818,"lo":-73.535496,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":475,"s":"Cadillac / Sherbrooke","n":"6721","st":2,"b":false,"su":true,"m":false,"lu":1480068095126,"lc":1487955628776,"bk":false,"bl":false,"la":45.57713595014113,"lo":-73.54628920555115,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":476,"s":"CHSLD \u00c3\u2030loria-Lepage (de la P\u00c3\u00a9pini\u00c3\u00a8re / de Marseille)","n":"6722","st":2,"b":false,"su":true,"m":false,"lu":1480068123163,"lc":1487871025528,"bk":false,"bl":false,"la":45.577328384121245,"lo":-73.54183673858643,"da":19,"dx":0,"ba":0,"bx":0
+    },{
+      "id":477,"s":"26e avenue / Beaubien","n":"6723","st":2,"b":false,"su":true,"m":false,"lu":1488288591787,"lc":1488293011627,"bk":false,"bl":false,"la":45.564944,"lo":-73.577639,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":478,"s":"Square Sir-Georges-\u00c3\u2030tienne-Cartier / L\u00c3\u00a9a Roback","n":"6724","st":2,"b":false,"su":true,"m":false,"lu":1479486885602,"lc":1488286927999,"bk":false,"bl":false,"la":45.471926,"lo":-73.58247,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":479,"s":"M\u00c3\u00a9tro Monk (Allard / Beaulieu)","n":"6725","st":2,"b":false,"su":true,"m":false,"lu":1479477725874,"lc":1487940039993,"bk":false,"bl":false,"la":45.45085122,"lo":-73.5940272,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":480,"s":"Hamel / Sauv\u00c3\u00a9","n":"6726","st":2,"b":false,"su":true,"m":false,"lu":1479488905485,"lc":1488218719961,"bk":false,"bl":false,"la":45.560742,"lo":-73.65041,"da":3,"dx":12,"ba":0,"bx":0
+    },{
+      "id":481,"s":"Richardson / Montmorency","n":"6727","st":2,"b":false,"su":true,"m":false,"lu":1479496432339,"lc":1488221667742,"bk":false,"bl":false,"la":45.484857,"lo":-73.560323,"da":18,"dx":0,"ba":0,"bx":1
+    },{
+      "id":482,"s":"Champagneur / Jean-Talon","n":"6728","st":2,"b":false,"su":true,"m":false,"lu":1479909591520,"lc":1487942233361,"bk":false,"bl":false,"la":45.526904,"lo":-73.624331,"da":2,"dx":12,"ba":0,"bx":1
+    },{
+      "id":483,"s":"St-Andr\u00c3\u00a9 / de Maisonneuve","n":"6729","st":2,"b":false,"su":true,"m":false,"lu":1480002254350,"lc":1487874374427,"bk":false,"bl":false,"la":45.517062,"lo":-73.559781,"da":0,"dx":19,"ba":0,"bx":0
+    },{
+      "id":484,"s":"35e avenue / Beaubien","n":"6730","st":2,"b":false,"su":true,"m":false,"lu":1479474634740,"lc":1488287650064,"bk":false,"bl":false,"la":45.570081,"lo":-73.573047,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":485,"s":"Rousselot / Villeray","n":"6733","st":2,"b":false,"su":true,"m":false,"lu":1479404029764,"lc":1488286735563,"bk":false,"bl":false,"la":45.548931,"lo":-73.616837,"da":3,"dx":12,"ba":0,"bx":0
+    },{
+      "id":486,"s":"Fortune/wellington","n":"6732","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1488285600855,"bk":false,"bl":false,"la":45.477923,"lo":-73.559038,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":487,"s":"28e avenue / Rosemont","n":"6731","st":2,"b":false,"su":true,"m":false,"lu":1488216732773,"lc":1488216738163,"bk":false,"bl":false,"la":45.564353,"lo":-73.571244,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":489,"s":"Villeray / Lajeunesse","n":"6734","st":2,"b":false,"su":true,"m":false,"lu":1479910732307,"lc":1488289213062,"bk":false,"bl":false,"la":45.54211889,"lo":-73.6225471,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":490,"s":"Basile-Routhier / Gouin","n":"6736","st":2,"b":false,"su":true,"m":false,"lu":1479399812730,"lc":1488288179876,"bk":false,"bl":false,"la":45.556707915136315,"lo":-73.67063373327255,"da":3,"dx":16,"ba":0,"bx":0
+    },{
+      "id":491,"s":"Jacques-Cassault / Christophe-Colomb","n":"6737","st":2,"b":false,"su":true,"m":false,"lu":1479395520137,"lc":1488208765392,"bk":false,"bl":false,"la":45.552123,"lo":-73.630103,"da":2,"dx":17,"ba":0,"bx":0
+    },{
+      "id":492,"s":"Fran\u00c3\u00a7ois-Perrault / L.-O.-David","n":"6735","st":2,"b":false,"su":true,"m":false,"lu":1479401124086,"lc":1488207383401,"bk":false,"bl":false,"la":45.561396,"lo":-73.601544,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":493,"s":"Union / Ren\u00c3\u00a9-L\u00c3\u00a9vesque","n":"6738","st":2,"b":false,"su":true,"m":false,"lu":1479325864433,"lc":1488217610342,"bk":false,"bl":false,"la":45.50233,"lo":-73.566497,"da":23,"dx":0,"ba":0,"bx":0
+    },{
+      "id":495,"s":"de Repentigny / Sherbrooke","n":"6739","st":2,"b":false,"su":false,"m":false,"lu":1473602755469,"lc":1488203202423,"bk":false,"bl":false,"la":45.58077,"lo":-73.544766,"da":7,"dx":0,"ba":0,"bx":0
+    },{
+      "id":496,"s":"Notre-Dame / Chatham","n":"6741","st":2,"b":false,"su":true,"m":false,"lu":1487858374741,"lc":1487858750326,"bk":false,"bl":false,"la":45.48691857455084,"lo":-73.56942862272263,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":497,"s":"Briand / Carron","n":"6742","st":2,"b":false,"su":true,"m":false,"lu":1488215851115,"lc":1488215851125,"bk":false,"bl":false,"la":45.462362,"lo":-73.59665,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":498,"s":"St-Marc / Sherbrooke","n":"6743","st":2,"b":false,"su":true,"m":false,"lu":1479390394165,"lc":1488287027051,"bk":false,"bl":false,"la":45.494514,"lo":-73.583368,"da":0,"dx":27,"ba":0,"bx":0
+    },{
+      "id":499,"s":"Hamilton / Jolicoeur","n":"6744","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1488284451525,"bk":false,"bl":false,"la":45.456355,"lo":-73.597557,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":500,"s":"Outremont / Ogilvy","n":"6745","st":2,"b":false,"su":true,"m":false,"lu":1487936966497,"lc":1487942302879,"bk":false,"bl":false,"la":45.526856,"lo":-73.626672,"da":3,"dx":0,"ba":0,"bx":0
+    },{
+      "id":501,"s":"M\u00c3\u00a9tro Acadie (Acadie / Beaumont)","n":"6746","st":2,"b":false,"su":true,"m":false,"lu":1479907019760,"lc":1487862893679,"bk":false,"bl":false,"la":45.523412654228316,"lo":-73.623526096344,"da":0,"dx":15,"ba":0,"bx":0
+    },{
+      "id":502,"s":"Waverly / St-Zotique","n":"6747","st":2,"b":false,"su":true,"m":false,"lu":1479836926713,"lc":1488296017376,"bk":false,"bl":false,"la":45.5306,"lo":-73.614616,"da":2,"dx":13,"ba":0,"bx":0
+    },{
+      "id":503,"s":"St-Ambroise / Greene","n":"6748","st":2,"b":false,"su":true,"m":false,"lu":1479666284728,"lc":1488207931611,"bk":false,"bl":false,"la":45.478567869527495,"lo":-73.57636883854866,"da":1,"dx":14,"ba":0,"bx":0
+    },{
+      "id":504,"s":"St-Jacques / St-Laurent","n":"6749","st":2,"b":false,"su":true,"m":false,"lu":1479587565629,"lc":1488296605498,"bk":false,"bl":false,"la":45.506445,"lo":-73.556352,"da":1,"dx":14,"ba":0,"bx":0
+    },{
+      "id":505,"s":"des \u00c3\u2030rables / Rachel","n":"6750","st":2,"b":false,"su":true,"m":false,"lu":1479581522349,"lc":1488294607361,"bk":false,"bl":false,"la":45.5334955551535,"lo":-73.56693148612976,"da":35,"dx":0,"ba":0,"bx":0
+    },{
+      "id":508,"s":"Hutchison / Beaubien","n":"6752","st":2,"b":false,"su":true,"m":false,"lu":1479577266729,"lc":1487949495412,"bk":false,"bl":false,"la":45.5262464,"lo":-73.61374676,"da":0,"dx":23,"ba":0,"bx":0
+    },{
+      "id":511,"s":"St-Zotique / 39e avenue","n":"6753","st":2,"b":false,"su":true,"m":false,"lu":1479385017542,"lc":1488218770001,"bk":false,"bl":false,"la":45.573471130333964,"lo":-73.57497543096542,"da":15,"dx":0,"ba":0,"bx":0
+    },{
+      "id":512,"s":"Eadie/Dubois","n":"6754","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1488222999077,"bk":false,"bl":false,"la":45.45759682462104,"lo":-73.59052859581423,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":515,"s":"Tolhurst / Fleury","n":"7002","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487769848025,"bk":false,"bl":false,"la":45.54410128430579,"lo":-73.66738557815552,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":516,"s":"George-Baril / Sauv\u00c3\u00a9","n":"7003","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487771554158,"bk":false,"bl":false,"la":45.556586367317934,"lo":-73.65265756845474,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":517,"s":"\u00c3\u2030mile-Journault / de Ch\u00c3\u00a2teaubriand","n":"7004","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487771804318,"bk":false,"bl":false,"la":45.54983321292286,"lo":-73.64063255488873,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":518,"s":"Marquette / Fleury","n":"7005","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487772053782,"bk":false,"bl":false,"la":45.56735205736566,"lo":-73.65378744900227,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":519,"s":"Clark / Fleury","n":"7006","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487772417549,"bk":false,"bl":false,"la":45.54764847825576,"lo":-73.6655656993389,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":522,"s":"CHSLD\u00c2\u00a0Benjamin-Victor-Rousselot (Dickson / Sherbrooke)","n":"7009","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487773467084,"bk":false,"bl":false,"la":45.573797819677914,"lo":-73.55034470558167,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":523,"s":"Belmore / Sherbrooke","n":"7010","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487773955205,"bk":false,"bl":false,"la":45.459233060280816,"lo":-73.63740515022073,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":524,"s":"Girouard / Terrebonne","n":"7011","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487774184592,"bk":false,"bl":false,"la":45.478326519011326,"lo":-73.62469887390034,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":525,"s":"Louis Collin / Willowdale","n":"7012","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487774372641,"bk":false,"bl":false,"la":45.50387066969144,"lo":-73.61996310777613,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":526,"s":"Benny / Sherbrooke","n":"7013","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487775211066,"bk":false,"bl":false,"la":45.4648015690452,"lo":-73.6263437202433,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":527,"s":"\u00c3\u2030douard-Montpetit (Universit\u00c3\u00a9 de Montr\u00c3\u00a9al)","n":"7014","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487775458178,"bk":false,"bl":false,"la":45.504525188708364,"lo":-73.61798595695291,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":528,"s":"LaSalle / 4e avenue","n":"7015","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487775732510,"bk":false,"bl":false,"la":45.43074022417498,"lo":-73.5919108253438,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":529,"s":"Sherbrooke / Langelier","n":"7016","st":2,"b":true,"su":true,"m":false,"lu":0,"lc":1487775949949,"bk":false,"bl":false,"la":45.58244929111739,"lo":-73.54311615228652,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":530,"s":"Bennett / Ste-Catherine","n":"7017","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487776526352,"bk":false,"bl":false,"la":45.55302673666147,"lo":-73.53238195180893,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":531,"s":"Joliette / Ste-Catherine","n":"7018","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487776670230,"bk":false,"bl":false,"la":45.54285769556537,"lo":-73.53826403617859,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":532,"s":"Jeanne d'Arc / Ontario","n":"7019","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487776936327,"bk":false,"bl":false,"la":45.54957635200452,"lo":-73.5419037938118,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":533,"s":"St-Germain / Hochelaga","n":"7020","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487777066498,"bk":false,"bl":false,"la":45.5436987529516,"lo":-73.55367332696915,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":536,"s":"CHSLD St-Michel (Jarry / 8e avenue)","n":"7023","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487777859631,"bk":false,"bl":false,"la":45.56215974814471,"lo":-73.61085534095764,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":537,"s":"Berri / Gilford","n":"7024","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487778017297,"bk":false,"bl":false,"la":45.52682312214826,"lo":-73.58596038131509,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":538,"s":"Alexandra / Jean Talon","n":"7042","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1486408507862,"bk":false,"bl":false,"la":45.532330645908054,"lo":-73.62018674612045,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":539,"s":"St-Dominique / Bernard","n":"7025","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487778214458,"bk":false,"bl":false,"la":45.52793332015246,"lo":-73.60122251338906,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":540,"s":"Maguire / Henri-Julien","n":"7026","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487778481366,"bk":false,"bl":false,"la":45.527041096087785,"lo":-73.59347056655677,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":541,"s":"Terrasse Guindon / Franch\u00c3\u00a8re","n":"7027","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487778741979,"bk":false,"bl":false,"la":45.53758654669485,"lo":-73.56886601104634,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":542,"s":"de Gasp\u00c3\u00a9 / St-Viateur","n":"7028","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487778960066,"bk":false,"bl":false,"la":45.52774865732088,"lo":-73.59725451125996,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":543,"s":"Cartier / Masson","n":"7029","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487779489280,"bk":false,"bl":false,"la":45.53805998459642,"lo":-73.58337676181691,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":544,"s":"Bordeaux / Marie Anne","n":"7030","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487779807407,"bk":false,"bl":false,"la":45.53326427154253,"lo":-73.5707790782908,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":545,"s":"Berri / Rachel","n":"7031","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487780142312,"bk":false,"bl":false,"la":45.52292358945683,"lo":-73.57751615345478,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":546,"s":"Drolet / Laurier","n":"7032","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487780340645,"bk":false,"bl":false,"la":45.526251876092516,"lo":-73.58975838928018,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":547,"s":"Aylmer / Prince-Arthur","n":"7033","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487781688095,"bk":false,"bl":false,"la":45.50885409740791,"lo":-73.57792042312212,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":548,"s":"Clark / Laurier","n":"7034","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487782010618,"bk":false,"bl":false,"la":45.522583736890226,"lo":-73.59358858375344,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":549,"s":"Fullum / Gilford","n":"7035","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487782207220,"bk":false,"bl":false,"la":45.53922374455291,"lo":-73.57383679656778,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":550,"s":"Hutchison / Edouard Charles","n":"7036","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487782542019,"bk":false,"bl":false,"la":45.518363856871694,"lo":-73.5957310165395,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":551,"s":"Prince-Arthur / Ste-Famille","n":"7037","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487783366029,"bk":false,"bl":false,"la":45.51177336212466,"lo":-73.5748131206492,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":552,"s":"Clark / Guilbault","n":"7038","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487783548047,"bk":false,"bl":false,"la":45.51445838656277,"lo":-73.57511019363301,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":553,"s":"du Mont-Royal / Augustin-Frigon","n":"7039","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487783738306,"bk":false,"bl":false,"la":45.543763151117474,"lo":-73.56772005558014,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":554,"s":"St-Urbain / Beaubien","n":"7040","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487783916521,"bk":false,"bl":false,"la":45.52951650375026,"lo":-73.61063808202744,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":555,"s":"15e avenue / Masson","n":"7041","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487784414826,"bk":false,"bl":false,"la":45.553913774821154,"lo":-73.57141882181168,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":556,"s":"Ernest-Gendreau / du Mont-Royal","n":"7043","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487784484450,"bk":false,"bl":false,"la":45.549713734001415,"lo":-73.56384828686714,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":557,"s":"H\u00c3\u00b4pital Santa Cabrini (St-Zotique / Jeanne-Jugan)","n":"7044","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487784473321,"bk":false,"bl":false,"la":45.58008551515922,"lo":-73.57143759727477,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":558,"s":"Casgrain / Shamrock","n":"7045","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487785307324,"bk":false,"bl":false,"la":45.53531641145268,"lo":-73.61597433686255,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":559,"s":"15e avenue / Dandurand","n":"7046","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487785349585,"bk":false,"bl":false,"la":45.55479651443991,"lo":-73.57432097196579,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":560,"s":"Murray / William","n":"7047","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487785397545,"bk":false,"bl":false,"la":45.493600860325365,"lo":-73.56192782521248,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":561,"s":"M\u00c3\u00a9tro Angrignon","n":"7048","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487785335502,"bk":false,"bl":false,"la":45.446534244545326,"lo":-73.60354088363238,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":562,"s":"Seminaire / Ottawa","n":"7049","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487790755677,"bk":false,"bl":false,"la":45.49120047099975,"lo":-73.56129080057144,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":563,"s":"Ottawa / William","n":"7050","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487790772940,"bk":false,"bl":false,"la":45.48954486106131,"lo":-73.56413930654526,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":564,"s":"Jogues / Allard","n":"7051","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487790832610,"bk":false,"bl":false,"la":45.449900812620385,"lo":-73.60025119094644,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":565,"s":"Shearer / Centre","n":"7052","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487790976267,"bk":false,"bl":false,"la":45.483005619293046,"lo":-73.56218665838242,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":567,"s":"Cote St-Paul / St-Ambroise","n":"7054","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487791507076,"bk":false,"bl":false,"la":45.467665653865964,"lo":-73.59391784324544,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":569,"s":"Godin / Bannantyne","n":"7056","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487791555897,"bk":false,"bl":false,"la":45.447538433923974,"lo":-73.57710575714007,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":570,"s":"2e avenue / Wellington","n":"7057","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487792206948,"bk":false,"bl":false,"la":45.45789352611307,"lo":-73.56752824096475,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":571,"s":"Gordon / Wellington","n":"7058","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487792165639,"bk":false,"bl":false,"la":45.46099943357352,"lo":-73.5674705368001,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":572,"s":"Argyle / Bannantyne","n":"7059","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487792547536,"bk":false,"bl":false,"la":45.45320284154888,"lo":-73.57628964004107,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":573,"s":"de l'\u00c3\u2030glise / Verdun","n":"7060","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487792567828,"bk":false,"bl":false,"la":45.46300108733155,"lo":-73.57156895217486,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":575,"s":"Ball / Durocher","n":"7062","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487792549609,"bk":false,"bl":false,"la":45.53215643588387,"lo":-73.63130986690521,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":576,"s":"Drolet / Jarry","n":"7063","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487794074005,"bk":false,"bl":false,"la":45.541968604330975,"lo":-73.6299580335617,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":577,"s":"Clark / de Li\u00c3\u00a8ge","n":"7064","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487794127220,"bk":false,"bl":false,"la":45.53996599884117,"lo":-73.63814145326614,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":578,"s":"de Lanaudi\u00c3\u00a8re / B\u00c3\u00a9langer","n":"7065","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487794076559,"bk":false,"bl":false,"la":45.54366708217659,"lo":-73.60562905669212,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":579,"s":"St-Urbain / de la Gaucheti\u00c3\u00a8re","n":"7066","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487794110975,"bk":false,"bl":false,"la":45.50706886153978,"lo":-73.56124587357044,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":580,"s":"City Councillors / President-Kennedy","n":"7067","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487794776780,"bk":false,"bl":false,"la":45.50625103256782,"lo":-73.57139065861702,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":582,"s":"Union / President-Kennedy","n":"7069","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487794555072,"bk":false,"bl":false,"la":45.50497464991098,"lo":-73.57170984148979,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":583,"s":"McTavish / Sherbrooke","n":"7070","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487794587121,"bk":false,"bl":false,"la":45.50293500930604,"lo":-73.5761234164238,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":584,"s":"St-Mathieu / Sherbrooke","n":"7071","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487795329322,"bk":false,"bl":false,"la":45.495789104811756,"lo":-73.58259558677672,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":585,"s":"Beaudry / Sherbrooke","n":"7072","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487795561707,"bk":false,"bl":false,"la":45.52303459543551,"lo":-73.56540597975254,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":586,"s":"Logan / Champlain","n":"7073","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487795560049,"bk":false,"bl":false,"la":45.52319305128245,"lo":-73.55585128068924,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":587,"s":"St-Andr\u00c3\u00a9 / Robin","n":"7074","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487795313494,"bk":false,"bl":false,"la":45.518091438595896,"lo":-73.56183394789696,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":589,"s":"Tupper / du Fort","n":"7076","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487853912450,"bk":false,"bl":false,"la":45.49133952011809,"lo":-73.58077501907246,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":590,"s":"de Maisonneuve / St-Hubert","n":"7077","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487853972152,"bk":false,"bl":false,"la":45.51606585362615,"lo":-73.56057095355936,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":591,"s":"Hochelaga / Chapleau","n":"7078","st":2,"b":false,"su":false,"m":false,"lu":0,"lc":1487853861629,"bk":false,"bl":false,"la":45.53463752921148,"lo":-73.5599603515584,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":592,"s":"St-Maurice / St-Henri","n":"7079","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487854375704,"bk":false,"bl":false,"la":45.499942998079376,"lo":-73.55881845607655,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":593,"s":"President-Kennedy / Robert Bourassa","n":"7080","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487854315247,"bk":false,"bl":false,"la":45.5046164519155,"lo":-73.57245480670827,"da":0,"dx":0,"ba":0,"bx":0
+    },{
+      "id":594,"s":"Lincoln / Lambert Closse","n":"7081","st":2,"b":false,"su":true,"m":false,"lu":0,"lc":1487854325625,"bk":false,"bl":false,"la":45.49147762875834,"lo":-73.58616422920022,"da":0,"dx":0,"ba":0,"bx":0
+    }
+  ]
+}

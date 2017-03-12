@@ -55,15 +55,18 @@ html, body {
 }
 
 #map {
-    position: relative;
+    position: absolute;
+    top: 50px;
     height: 100%;
     width: 100%;
+    overflow: visible;
 }
 
 #mapItem
 {
     position: relative;
-    top: 10px;
+    top: -30px;
+    width: 40%;
 }
 
 .controls {
@@ -82,10 +85,10 @@ html, body {
   font-family: Roboto;
   font-size: 15px;
   font-weight: 300;
-  margin-left: 12px;
+  margin: 2px;
   padding: 0 11px 0 13px;
   text-overflow: ellipsis;
-  width: 200px;
+  width: 150px;
 }
 
 #origin-input:focus,
@@ -155,6 +158,11 @@ html, body {
 }
 @media screen and (max-width: 475px)
 {
+    #mapItem
+    {
+        top: -70px;
+    }
+
     .removeText
     {
        font-size: 0;    
