@@ -15,5 +15,10 @@ module.exports = {
         clientID: '529443776406-vj24g6st5lnqa8ir2doc9c7gf25s6kos.apps.googleusercontent.com',
         clientSecret: 'dUfSFSNPVEwizEYzj95jChCc',
         callbackURL: 'http://localhost:3000/oauth/google/callback'
+    },
+    calendar: {
+        clientID: '529443776406-vj24g6st5lnqa8ir2doc9c7gf25s6kos.apps.googleusercontent.com',
+        clientSecret: 'dUfSFSNPVEwizEYzj95jChCc',
+        callbackURL: 'http://localhost:3000/oauth/google/calendar'
     }
 };
