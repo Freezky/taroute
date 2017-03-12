@@ -14,9 +14,22 @@ const NAD83_b = 6356752.3141 // Minor semiaxis [m]
 exports.getDistinctLocations = function(){
 	var AccidentReports = require('../AccidentReports.json');
 	var distinctLocations = {};
-	AccidentReports.value.map(function(report){
+	AccidentReports.value.map(function(report, i){
 		var key = report["NO_CIVIQ_ACCDN"] + ' ' + report["RUE_ACCDN"];
-		distinctLocations[key] = (distinctLocations[key] && distinctLocations[key] + 1) || 1;
+		if (!distinctLocations[key]){
+			distinctLocations[key] = {count: 1, 
+				gravity: report['gravite'], 
+				totalNumberOfVictims: parseInt(report['NB_VICTIMES_TOTAL'], 0), 
+				numberOfPedestrian: parseInt(report['NB_VICTIMES_PIETONS'], 0), 
+				numberOfCyclists: parseInt(report['NB_VICTIMES_VELO'], 0),
+				weather: parseInt(report['CD_COND_METEO'] || 0), 
+				date: report['DT_ACCDN']
+			}
+		} else {
+			distinctLocations[key].totalNumberOfVictims += parseInt(report['NB_VICTIMES_TOTAL'], 0);
+			distinctLocations[key].numberOfPedestrian += parseInt(report['NB_VICTIMES_PIETONS'], 0);
+			distinctLocations[key].numberOfCyclists += parseInt(report['NB_VICTIMES_VELO'], 0);
+		}
 	});
 	console.log('distinctLocations', Object.keys(distinctLocations).length);
 	return distinctLocations;
