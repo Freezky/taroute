@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+   		<meta charset="utf-8">
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Hack Sherbrooke</title>
+		<!-- Latest compiled and minified CSS -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<link rel="stylesheet" 
+			href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" 
+			integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" 
+			crossorigin="anonymous">
+
+		<!-- Optional theme -->
+		<link rel="stylesheet" 
+			href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" 
+			integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" 
+			crossorigin="anonymous">
+
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" 
+			integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" 
+			crossorigin="anonymous"></script>
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.2/angular.min.js"></script>
+		<script src="js/todo.js"></script>
+
+		<link rel="stylesheet" href="css/todo.css">
+  </head>
+  <body>
+	  <nav class="navbar navbar-default">
+		<div class="container-fluid">
+			<div>
+				<a class="navbar-brand"  onclick="return openNav()">
+					<span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span> 
+					<img src="media/logo.svg"/>
+				</a>
+				<div class="pull-right">
+					<button class="navbar-btn btn btn-info"><span class="glyphicon glyphicon-log-in"></span><span class="removeText"> Inscription</span></button>
+					<button class="navbar-btn btn btn-primary"><span class="glyphicon glyphicon-save"></span><span class="removeText"> Connexion</span></button>
+				</div>
+			</div>
+  		</div>
+	</nav>
+	<div id="mySidenav" class="sidenav">
+			<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+			<div >
+				<label for="Safety" class="text-danger">Sécurité</label>
+				<input id="Safety" type="range"/>
+			</div>
+			
+			<div>
+				<label for="footprint" class="text-success">Empreinte écologique</label>
+				<input id="footprint" type="range"/>
+			</div>
+
+			<div>
+				<label for="cost" class="text-primary">Coût</label>
+				<input id="cost" type="range"/>
+			</div>
+			<label for="Mode" class="text-info">Mode de transport</label>
+			<div id="mode">
+				<input type="image" src="media/pedestrian_unclick.png" onclick="updateMean(this)" name="type" id="changemode-walking" checked="checked"/>
+				<input type="image" src="media/bus_unclick.png" name="type" onclick="updateMean(this)" id="changemode-transit"/>
+				<input type="image" src="media/car_unclick.png" name="type" onclick="updateMean(this)" id="changemode-driving"/>
+				<input type="image" src="media/cycle_unclick.png" name="type" onclick="updateMean(this)" id="changemode-cycling"/>
+			</div>
+		</div>
+				<input id="origin-input" class="controls" type="text"
+					placeholder="Lieu de départ"/>
+
+				<input id="destination-input" class="controls" type="text"
+					placeholder="Lieu d'arrivée'"/>
+		<div id="map">
+				<div id="mapItem">
+					<input id="origin-input" class="controls" type="text"
+					placeholder="Lieu de départ"/>
+
+				<input id="destination-input" class="controls" type="text"
+					placeholder="Lieu d'arrivée'"/>
+				<div/>
+			
+		</div>
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA4zZ8zYBhHqNkK7JA4yYYsmGw8Iq6UwFQ&callback=initMap&libraries=places, directions"
+        async defer></script>
+  </div>
+  </body>
+</html>

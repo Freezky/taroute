@@ -1,28 +1,64 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>
-        <%=title %>
-    </title>
-</head>
-<body>
-<% for(var i in messages) { %>
-<div class="flash"><%= messages[i] %></div>
-<% } %>
-<form action="/signin" method="post">
-    <div>
-        <label>Username:</label>
-        <input type="text" name="username" />
+  <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Hack Sherbrooke</title>
+        <!-- Latest compiled and minified CSS -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <link rel="stylesheet" 
+            href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" 
+            integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" 
+            crossorigin="anonymous">
+
+        <!-- Optional theme -->
+        <link rel="stylesheet" 
+            href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" 
+            integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" 
+            crossorigin="anonymous">
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" 
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" 
+            crossorigin="anonymous"></script>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.2/angular.min.js"></script>
+        <script src="js/todo.js"></script>
+
+        <link rel="stylesheet" href="css/todo.css">
+  </head>
+  <body>
+    <div class="container" style="padding:28px 8px;">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <% for(var i in messages) { %>
+                <div class="flash"><%= messages[i] %></div>
+                <% } %>
+                <form action="/signin" method="post" >
+                    <div class="col-md-12 text-left">
+                        <div class="form-group">
+                            <label for="username">Utilisateur:</label>
+                            <input id="username" type="text" name="username" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label for="password">Mot de passe:</label>
+                            <input id="password" type="password" name="password" class="form-control" />
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="col-md-4">
+                            <button type="submit" class="btn btn-success">Connexion</button>
+                        </div>
+                        <div class="col-md-8">
+                            <a href="/oauth/facebook" class="btn btn-lg" style="background-color:#3b5998;color:white;">
+                                Se Connecter avec Facebook
+                            </a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
     </div>
-    <div>
-        <label>Password:</label>
-        <input type="password" name="password" />
-    </div>
-    <div>
-        <input type="submit" value="Sign In" />
-    </div>
-</form>
-<a href="/oauth/facebook">Sign in with Facebook</a>
-<a href="/oauth/google">Sign in with Google</a>
-</body>
+  </body>
 </html>
